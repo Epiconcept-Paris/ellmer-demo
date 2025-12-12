@@ -1,0 +1,3832 @@
+note_number,patient_note,bacteremia?,causative,specimen_date
+1,"Diagnosis
+Infective endocarditis
+MRSA Bacteremia
+Acute renal impairment
+Clinical Details
+Mr. Alan Smith a 65-year-old male
+K/C
+Hypertensive heart disease
+AF on Apixaban
+DM type 2
+CKD stage 3
+Patient was admitted from Hospital C on 15/02/2025 following a reported fall at home with subsequent weakness and fever. Patient complained of intermittent chills, rigors and had a documented temperature spike of 38.9 C on 16/02/2025. He was noted to have a productive cough with yellow sputum and increasing shortness of breath over the past 48 hours. Patient has been non?compliant with his diabetic diet.
+DH
+NKDA
+Apixaban 5mg BD
+Lisinopril 10mg daily
+Metformin 500mg BD
+Atorvastatin 20mg nocte
+Salbutamol inhaler PRN
+Empagliflozin 10mg daily
+Parameters:
+BP: 135/85; HR: 110; Temperature: 38.2; SPO2: 94% on room air, drops to 88% on exertion
+Weight 85.0kg
+O/E
+Chest: Crackles in the right lower zone
+CVS: Irregular rhythm
+Abdo: Soft, non?tender
+Extremities: Mild bilateral pedal edema
+Blood tests taken showed:
+•	CBC: Neutrophilia
+•	Raised creatinine consistent with AKI on CKD
+•	CRP 102
+•	Procalcitonin elevated
+•	CXR: Right lower lobe consolidation
+On 17/02/2025 blood cultures were taken and subsequently grew MRSA on 18/02/2025 with sensitivities confirming resistance to penicillin and sensitivity to Vancomycin. A TTE performed on 19/02/2025 revealed vegetations on the aortic valve.
+Patient was started on Vancomycin (dosed per renal function) with ICU monitoring and weekly review of renal parameters and Vancomycin trough levels.",Yes,MRSA (Methicillin-Resistant Staphylococcus aureus),17/02/2025
+2,"Diagnosis
+Catheter-related bloodstream infection
+ESBL Klebsiella pneumoniae Bacteremia
+Sepsis
+Clinical Details
+Ms. Rebecca Lee, a 72-year-old female
+K/C
+History of ovarian cancer on chemotherapy
+Recent neutropenia
+Patient was admitted to Hospital D on 05/03/2025 with fever, rigors, and localized pain at her central line site. She reported chills and malaise. On examination, the central venous catheter site was erythematous and tender.
+DH
+NKDA
+Paclitaxel as per chemotherapy protocol
+Ondansetron 8mg IV PRN
+Morphine 2mg IV PRN
+Acetaminophen 1g QDS
+Parameters:
+BP: 112/70; HR: 120; Temperature: 38.6; SPO2: 96% on room air
+Weight 68.0kg
+O/E
+Chest: Clear
+CVS: Tachycardia, no murmurs
+Abdo: Soft, non?distended
+Local: Erythema and tenderness around the central line insertion site
+Blood tests taken showed:
+•	CBC: Neutropenia (WCC 2.0)
+•	CRP 150
+•	Renal function: Within normal limits
+On 06/03/2025 blood cultures grew ESBL Klebsiella pneumoniae (confirmed by catheter tip culture) on 07/03/2025.
+Patient was managed with prompt removal of the central venous catheter and initiation of Meropenem 1g IV TDS for 14 days. Infectious Diseases were consulted with plans for repeat blood cultures every 48 hours and high dependency unit monitoring.",Yes,ESBL Klebsiella pneumoniae,06/03/2025
+3,"Diagnosis
+Acute exacerbation of COPD
+Congestive heart failure exacerbation
+Type 2 respiratory failure
+Clinical Details
+Mr. Michael Brown, a 68-year-old male
+K/C
+Chronic obstructive pulmonary disease (COPD)
+Congestive heart failure (CHF)
+Patient presented to the ED on 10/03/2025 with worsening breathlessness and increased sputum production over the past 3 days. He denied fever, chills, or chest pain. His past history includes previous hospitalizations for COPD exacerbations.
+DH
+NKDA
+Tiotropium inhaler once daily
+Salbutamol inhaler PRN
+Furosemide 40mg daily
+Bisoprolol 2.5mg daily
+Spironolactone 25mg daily
+Parameters:
+BP: 130/78; HR: 88; Temperature: 36.8; SPO2: 90% on room air, improves to 96% on 2L O?
+Weight 76.5kg
+O/E
+Chest: Bilateral wheeze, no crackles
+CVS: Regular rhythm with normal S1 and S2
+Abdo: Soft, non?tender
+Extremities: No peripheral edema
+Blood tests taken showed:
+•	CBC: No evidence of infection
+•	Renal function: Stable
+•	Electrolytes: Within normal limits
+Chest X-ray revealed hyperinflated lung fields with no focal consolidation.
+Management included oxygen supplementation, nebulized bronchodilators, and optimization of diuretic therapy. No antibiotics were administered as there was no evidence of infection.",No,None,
+4,"Diagnosis
+Severe osteoarthritis of the knee
+Chronic lower back pain
+Clinical Details
+Mrs. Linda Green, a 75-year-old female
+PMH:
+Hypertension
+Hyperlipidemia
+Patient attended the orthopaedic clinic on 20/03/2025 with a 6-month history of progressive right knee pain and stiffness. She reports difficulty ambulating and climbing stairs. There is no history of fever or systemic symptoms.
+DH
+Amlodipine 5mg daily
+Atorvastatin 10mg nocte
+Paracetamol 1g QDS PRN
+Ibuprofen 400mg PRN
+Parameters:
+BP: 140/85; HR: 72; Temperature: 36.7
+Weight 68.0kg
+O/E
+Right knee: Reduced range of motion, crepitus on movement, tenderness over the medial joint line.
+Left knee: Mild crepitus without significant pain.
+Spine: Mild paraspinal muscle tenderness.
+Investigations:
+X-ray of the right knee demonstrated joint space narrowing with osteophyte formation consistent with osteoarthritis.
+Management includes referral for physiotherapy, weight management advice, and a review in 3 months. No infection or bacteremia was identified.",No,None,
+5,"Diagnosis
+Septic arthritis
+MDR Pseudomonas aeruginosa Bacteremia
+Acute osteomyelitis
+Clinical Details
+Mr. Robert White, a 58-year-old male
+K/C
+Poorly controlled DM
+Peripheral vascular disease
+Patient presented to the ED on 25/03/2025 with severe left knee pain, swelling, and fever. He reported a minor laceration on his left leg that subsequently became infected. Patient experienced rigors and noted escalating knee pain over the past 48 hours.
+DH
+NKDA
+Insulin glargine 20 units nocte
+Metformin 1g BD
+Clopidogrel 75mg daily
+Atorvastatin 40mg nocte
+Ibuprofen 400mg PRN
+Parameters:
+BP: 125/80; HR: 105; Temperature: 38.5; SPO?: 97% on room air
+Weight 92.0kg
+O/E
+Left knee: Marked effusion, erythema, warmth, and reduced range of motion.
+Other joints: Unremarkable
+General: Febrile with mild tachycardia
+Blood tests taken showed:
+•	CBC: Elevated WCC with neutrophilia
+•	CRP 180
+Ultrasound of the left knee confirmed a joint effusion.
+On 26/03/2025 blood cultures flagged positive on 27/03/2025 growing MDR Pseudomonas aeruginosa (resistant to ceftazidime and ciprofloxacin, sensitive to Piperacillin-Tazobactam). Urgent joint aspiration confirmed septic arthritis.
+Patient was commenced on IV Piperacillin-Tazobactam 4.5g TDS with an orthopedic surgical review planned. He was admitted under Infectious Diseases for close monitoring and further management.",Yes,MDR Pseudomonas aeruginosa,26/03/2025
+6,"Diagnosis
+Catheter-related bloodstream infection
+VRE Bacteremia
+AKI secondary to sepsis
+Type 2 Diabetes Mellitus
+Clinical Details
+Mr. Edward Smith, a 65-year-old male
+K/C:
+Chronic indwelling central venous catheter for chemotherapy
+Type 2 Diabetes Mellitus on oral hypoglycemics
+Hypertension
+Obesity
+CKD stage 3
+Patient was admitted from Hospital C on 05/01/2025 with a 2-day history of rigors, fever spikes up to 38.9°C, and chills. He complained of discomfort and mild tenderness around his catheter site. Noted reduced urine output since symptom onset. On arrival, he was febrile and tachycardic.
+DH
+NKDA
+Metformin 1000mg BID
+Lisinopril 10mg daily
+Atorvastatin 20mg nocte
+Insulin glargine 10 units nocte
+Vancomycin 1g IV Q12H (administered on admission; subsequently discontinued pending culture results)
+Parameters:
+BP: 135/82; HR: 105; Temperature: 38.5°C; SPO2: 97% on room air
+Weight 88.0kg
+O/E
+Chest: Clear bilaterally
+CVS: Regular rhythm, no murmurs
+Abdo: Soft, non-tender
+Site: Central line insertion site with local erythema, no purulent discharge
+Blood tests showed:
+•	CBC: Elevated WCC with neutrophilia
+•	Creatinine risen from baseline 1.4 to 2.1 mg/dL
+•	CRP 120 mg/L
+•	Procalcitonin 1.8 ng/mL
+CXR: Unremarkable
+On 06/01/2025, blood cultures flagged positive for Enterococcus faecium resistant to vancomycin. Infectious Diseases (Dr. F) were consulted and Linezolid 600mg IV BID was initiated. The central line was removed on 06/01/2025 and replaced with a peripheral cannula. The patient was managed in HDU with fluid resuscitation and supportive care, with a planned 14-day course of targeted antibiotics.",Yes,VRE Vancomycin-resistant Enterococcus faecium),06/01/2025
+7,"Diagnosis
+Post-operative wound infection
+MRSA Bacteremia
+Sepsis secondary to surgical site infection
+Type 2 Diabetes Mellitus
+Clinical Details
+Mrs. Linda Carter, a 72-year-old female
+K/C:
+Recent total knee replacement (TKR) performed on 10/12/2024 at Hospital D
+Known diabetic and hypertensive; history of obesity
+Presented on 15/12/2024 with worsening wound pain, increasing erythema, and purulent discharge from the surgical site. Developed fever spikes up to 39.2°C and rigors within 24 hours. The wound was dehiscent with obvious signs of local infection. Blood cultures were drawn on admission.
+DH
+NKDA
+Metformin 850mg BID
+Lisinopril 10mg daily
+Aspirin 75mg daily
+Atorvastatin 20mg nocte
+Empirical therapy with Clindamycin 600mg IV TDS initiated on 15/12/2024
+Parameters:
+BP: 140/85; HR: 110; Temperature: 38.9°C; SPO2: 95% on room air
+Weight 94.0kg
+O/E
+Wound: Dehiscent with purulent discharge and surrounding erythema at the surgical site
+CVS: Tachycardic, regular rhythm
+Respiratory: Clear lung fields
+Investigations revealed:
+•	CBC: Leukocytosis (WCC 18.5 ×10?/L)
+•	CRP 150 mg/L
+Wound swab and subsequent blood cultures grew MRSA (sensitive to Linezolid; resistant to beta-lactams).
+On 16/12/2024, Infectious Diseases (Dr. G) advised switching to Linezolid 600mg IV BID. The patient underwent surgical wound debridement on 17/12/2024. A 14-day course of Linezolid was planned with close monitoring for resolution of sepsis.",Yes,MRSA (Methicillin-Resistant Staphylococcus aureus),15/12/2024
+8,"Diagnosis
+Hospital acquired pneumonia
+Pseudomonas Aeruginosa Bacteremia
+Acute Respiratory Distress Syndrome (ARDS)
+Chronic Obstructive Pulmonary Disease (COPD)
+Clinical Details
+Mr. Robert Thompson, a 68-year-old male
+K/C:
+Admitted from Hospital E on 22/01/2025 with severe respiratory distress and productive cough
+History of COPD on LTOT, previous smoker, and ischemic heart disease
+Initially managed for COPD exacerbation, but on 23/01/2025 developed high fever, rigors, and hypotension. Blood cultures and sputum samples were taken after noting increased oxygen requirements and clinical deterioration.
+DH
+NKDA
+Tiotropium inhaler daily
+Salbutamol inhaler PRN
+Aspirin 75mg daily
+Metoprolol 50mg daily
+Empirical therapy with Piperacillin/Tazobactam 4.5g IV TDS started on admission
+Parameters:
+BP: 100/65; HR: 115; Temperature: 38.7°C; SPO2: 88% on 4L O?
+Weight 76.5kg
+O/E
+Chest: Diffuse bilateral crepitations, more pronounced in the lower zones
+CVS: Tachycardic, no murmurs
+Abdo: Soft, non-tender
+Extremities: Cool peripheries
+Investigations:
+•	CXR: New bilateral infiltrates consistent with pneumonia
+•	Blood tests: Elevated WCC, CRP 200 mg/L, lactate 3.2 mmol/L
+Sputum culture grew Pseudomonas Aeruginosa resistant to Piperacillin/Tazobactam; blood cultures later confirmed the same.
+On 24/01/2025, the patient was escalated to ICU. Antibiotics were switched to Meropenem 1g IV TDS plus Amikacin 500mg IV daily according to sensitivity reports. ARDS management was initiated with low tidal volume ventilation. Infectious Diseases (Dr. H) were consulted for ongoing management, with a plan to reassess in 48 hours.",Yes,Pseudomonas aeruginosa,23/01/2025
+9,"Diagnosis
+Acute myocardial infarction
+Congestive heart failure (CHF)
+Chronic kidney disease stage 3
+Clinical Details
+Mr. Michael Johnson, a 64-year-old male
+K/C:
+Presented to ED on 12/02/2025 with central chest pain radiating to the left arm and associated shortness of breath
+History of hypertension, hyperlipidemia, and type 2 diabetes mellitus
+No fever or infectious symptoms reported. Initial ECG demonstrated ST-elevation in leads V2–V4. Patient was rapidly transferred to the cardiac unit for intervention.
+DH
+NKDA
+Aspirin 300mg stat then 75mg daily
+Clopidogrel 75mg daily
+Atorvastatin 80mg nocte
+Ramipril 5mg daily
+Metformin 500mg BID
+Parameters:
+BP: 150/95; HR: 98; Temperature: 36.8°C; SPO2: 96% on room air
+Weight 92.0kg
+O/E
+CVS: S1 and S2 normal; S4 gallop present
+Respiratory: Clear lung fields
+Abdo: Soft, non-tender; no organomegaly
+Investigations:
+•	ECG: ST-elevation in anterior leads
+•	Troponin I: Markedly elevated
+•	Echocardiogram: Reduced ejection fraction at 40% with regional wall motion abnormalities
+Patient underwent primary percutaneous coronary intervention (PCI) on 12/02/2025. Post-procedure, he was admitted to the coronary care unit for monitoring and optimization of heart failure therapy. No infectious concerns were identified during this admission.",No,None,
+10,"Diagnosis
+Lumbar radiculopathy
+Degenerative disc disease
+Osteoarthritis of the knee
+Clinical Details
+Mrs. Sarah Williams, a 58-year-old female
+K/C:
+Presented to ED on 25/01/2025 with a 3-day history of worsening lower back pain radiating to the left leg, accompanied by numbness and tingling in the left foot. Denied any recent trauma, fever, or systemic symptoms. Patient has a longstanding history of osteoarthritis and prior episodes of sciatica.
+PMH:
+Hypertension
+Osteoarthritis
+Depression
+DH:
+Lisinopril 10mg daily
+Paracetamol 1g TDS PRN
+Ibuprofen 400mg TDS PRN
+Amitriptyline 25mg nocte
+NKDA
+Parameters:
+BP: 130/80; HR: 78; Temperature: 36.7°C; SPO2: 98% on room air
+Weight 68.0kg
+O/E
+Spine: Localized tenderness over the lumbar region with reduced range of motion
+Neurological: Decreased sensation in the left L5 dermatome; motor function preserved
+CVS: Regular rate and rhythm
+Abdo: Soft, non-tender
+Imaging:
+•	Lumbar spine X-ray: Degenerative changes with reduced disc space at L4–L5
+•	MRI (26/01/2025): Confirmed lumbar radiculopathy due to a herniated disc at L4–L5 with impingement of the left L5 nerve root
+The patient was managed conservatively with analgesia, physiotherapy, and a short course of oral steroids. No infectious or bacteremia issues were identified during this admission.",No,None,
+11,"Diagnosis
+Lower respiratory tract infection (LRTI)
+MRSA bacteremia
+Chronic obstructive pulmonary disease (COPD) exacerbation
+Type 2 Diabetes Mellitus
+Clinical Details
+Mr. James Smith, a 67-year-old male
+K/C
+COPD on inhalers and intermittent oxygen therapy
+Type 2 Diabetes Mellitus (diet + oral medication)
+Hypertension
+Patient presented to the ED on 08/01/2024 with a 3-day history of fever, productive cough with yellow sputum, and worsening dyspnea. He reported new-onset rigors and night sweats over the past 24 hours. Denies any chest pain or palpitations.
+DH
+NKDA
+Metformin 500mg TDS
+Salbutamol inhaler PRN
+Budesonide/Formoterol inhaler 2 puffs BD
+Amlodipine 5mg Daily
+Parameters
+BP: 130/85
+HR: 105
+Temperature: 38.2°C
+SPO2: 91% on RA, improved to 95% with 2L O2
+RR: 24
+O/E
+Chest: Bilateral expiratory wheeze, crackles at right lower zone
+CVS: S1+S2 normal, no added sounds
+Abdo: Soft, non-tender
+LL: No edema
+Investigations
+CBC: Elevated WCC (18 x 10^9/L), neutrophilia
+CRP: 120 mg/L
+CXR: Right lower lobe consolidation
+Blood cultures taken on 08/01/2024 grew MRSA (sensitive to vancomycin, resistant to flucloxacillin)
+Sputum culture: Awaiting final report
+Plan
+Admit under Respiratory Medicine
+Start IV Vancomycin as per culture sensitivities
+Continue supportive treatment for COPD exacerbation (Salbutamol nebulizers, IV steroids)
+Strict I/O charting, monitor renal function (in view of IV vancomycin)
+Repeat blood cultures on Day 3 of IV therapy
+During Admission
+Vancomycin levels monitored; dose adjusted according to trough levels
+Fever subsided by Day 3
+Repeat blood cultures on 11/01/2024 showed no growth
+Plan to complete 14 days of IV vancomycin
+Discharge Plan
+Target discharge date: 22/01/2024
+Convert to oral linezolid if clinically stable after 14 days IV
+Follow-up in Respiratory Clinic in 4 weeks",Yes,MRSA (Methicillin-Resistant Staphylococcus aureus),08/01/2024
+12,"Diagnosis
+Urinary tract infection (UTI)
+Enterococcus faecalis (Vancomycin-sensitive) bacteremia
+Benign prostatic hyperplasia (BPH)
+Clinical Details
+Mr. Robert Kane, a 72-year-old male, presented to the ED on 15/02/2024 with acute urinary retention and lower abdominal pain. He reported difficulty passing urine for two days, dribbling, and incomplete emptying. Also complained of lower back pain but no fever or rigors initially.
+
+Past Medical History
+
+BPH with intermittent self-catheterization
+Hypercholesterolemia
+Old MI in 2018 (on secondary prevention)
+Past Surgical History
+
+Inguinal hernia repair (2016)
+Cataract extraction (2022)
+Drug History
+
+Tamsulosin 400mcg Daily
+Atorvastatin 40mg Nocte
+Bisoprolol 5mg Daily
+NKDA
+Social History
+
+Non-smoker, occasional alcohol
+Lives with spouse, mobilizes independently
+Parameters
+
+BP: 124/77
+HR: 88
+Temperature: 37.8°C
+SPO2: 98% on RA
+Investigations
+
+Urinalysis: Leucocyte +++, Nitrite +ve
+CBC: WCC 15 x 10^9/L, mild neutrophilia
+CRP: 85 mg/L
+Blood cultures on 15/02/2024: Grew Enterococcus faecalis (vancomycin-sensitive) on 16/02/2024
+Renal US: Mild bilateral hydronephrosis, likely secondary to chronic urinary retention
+PSA: 6.2 ng/mL (borderline elevated)
+Management
+
+Inserted indwelling urinary catheter on arrival, drained 600ml immediately
+Started IV vancomycin on 15/02/2024 pending sensitivities
+Blood cultures repeated on 17/02/2024 – negative on 18/02/2024
+During Admission
+
+Vancomycin switched to IV ampicillin once sensitivities confirmed (Enterococcus faecalis sensitive to ampicillin)
+Advised to continue antibiotic therapy for 10 days total
+Urology consulted: Advised trial without catheter (TWOC) after 7 days
+Discharge Plan
+
+TWOC planned on 22/02/2024
+Review in Urology Clinic in 2 weeks
+Continue oral amoxicillin for 3 additional days post-discharge if cultures remain negative",Yes,Enterococcus faecalis (vancomycin-sensitive),15/02/2024
+13,"Diagnosis
+Cellulitis left lower limb
+Lymphedema
+Obesity
+Clinical Details
+Ms. Anna Lopez, a 55-year-old female
+Presented on 03/03/2024 with a 4-day history of a painful, erythematous left lower limb. Reports no fever, chills, or systemic symptoms. Known to have chronic lymphedema in the same limb secondary to previous DVT.
+
+PMH
+
+Morbid obesity (BMI 42)
+DVT 2019 on extended anticoagulation (Rivaroxaban)
+Depression
+DH
+
+Rivaroxaban 20mg Daily
+Sertraline 50mg Daily
+Vitamin D 2000 IU Daily
+NKDA
+Parameters
+
+BP: 118/70
+HR: 90
+Temperature: 37.2°C
+SPO2: 99% on RA
+O/E
+
+Left lower limb: Warm, erythematous area from mid-calf to ankle, mild pitting edema
+No visible wounds or ulcers
+Peripheral pulses palpable
+Investigations
+
+WCC: 9.5 x 10^9/L (normal)
+CRP: 30 mg/L (mildly elevated)
+Duplex US of leg: No new DVT, chronic post-thrombotic changes
+No blood cultures were taken as there was no fever and low suspicion of bacteremia.
+
+Plan
+
+Outpatient-based IV therapy (OPAT) not required; start oral flucloxacillin 500mg QDS for 7 days
+Elevation and compression bandaging of affected limb
+Monitor for any signs of systemic infection (fever, rigors)
+Follow-up in Vascular Clinic in 2 weeks
+Course
+
+Patient tolerated oral antibiotics well
+Erythema gradually resolved over 5 days
+Advised long-term lymphedema management",No,None,
+14,"Diagnosis
+
+Ischemic stroke (left MCA territory)
+Atrial fibrillation
+No evidence of active infection
+Clinical Details
+Mrs. Carol Huang, a 72-year-old female
+Presented on 20/04/2025 with sudden right-sided weakness and slurred speech for 4 hours. Denied headache, fever, or any infectious symptoms.
+
+Past Medical History
+
+AF on Apixaban 5mg BD
+Hypertension (on Losartan 50mg Daily)
+Osteoarthritis
+Drug History
+
+Apixaban 5mg BD
+Losartan 50mg Daily
+NKDA
+Parameters
+
+BP: 146/88
+HR: 115 (irregularly irregular)
+Temperature: 36.7°C
+SPO2: 97% on RA
+Investigations
+
+Urgent CT Brain: Infarct in left MCA territory, no hemorrhage
+ECG: AF with rapid ventricular response
+Bloods: Normal WCC, CRP 5 mg/L
+No blood or urine cultures were indicated as patient was afebrile with no focal signs of infection.
+
+Plan
+
+Admit to Stroke Unit under Neurology
+IV Alteplase given as per acute stroke protocol (within 4.5-hour window)
+Start antiplatelet therapy (aspirin) post-thrombolysis as per protocol
+Optimize rate control (beta-blocker vs. diltiazem)
+Continue Apixaban after acute management per stroke team’s advice
+Progress
+
+Neurological deficits improving with physiotherapy
+No signs of infection throughout admission
+Discharged to Rehab on 25/04/2025",No,None,
+15,"Diagnosis Complicated intra-abdominal abscess Escherichia coli (ESBL) bacteremia Type 2 diabetes mellitus
+Clinical Details Mr. Daniel Carter, a 55-year-old male known to have type 2 diabetes mellitus and obesity, was admitted on 10/05/2025 with right lower quadrant abdominal pain, low-grade fever for one week, and decreased oral intake. On initial assessment, he was found to have localized guarding and rebound tenderness in the right iliac fossa. Temperature was 38.3°C, blood pressure 110/70 mmHg, heart rate 105 bpm, and oxygen saturation 97% on room air.
+Past Medical History Type 2 diabetes on insulin therapy Obesity No known cardiac disease
+Drug History Insulin aspart 6 units TDS Insulin glargine 20 units nocte Metformin 1g BD No known drug allergies
+Investigations and Findings Blood cultures taken on 10/05/2025 grew Escherichia coli ESBL-positive on 12/05/2025. Sensitivity tests showed resistance to co-amoxiclav, ceftriaxone, and gentamicin, with sensitivity to meropenem and amikacin. Abdominal ultrasound revealed a 5 cm intra-abdominal fluid collection in the right iliac fossa. CT abdomen confirmed a localized abscess adjacent to the cecum. WBC was 18.2 with neutrophilia, CRP 96, procalcitonin 6.5.
+Clinical Course Empirically started on piperacillin-tazobactam 4.5g QDS IV, which was escalated to meropenem 1g TDS IV upon culture results on 12/05/2025. An US-guided drainage of the abscess was performed on 13/05/2025 with fluid sent for culture. The drainage fluid isolated ESBL-producing Escherichia coli matching the blood culture. Surgical team of Dr. Y was consulted, and conservative management with drainage plus meropenem was continued. Blood sugars were controlled with a revised insulin regimen. Repeat blood cultures on 16/05/2025 were negative. He showed clinical improvement with resolution of fever. On 18/05/2025 he was stepped down to amikacin IV for five days, followed by oral ciprofloxacin (based on sensitivities) to complete a total of 14 days of therapy. He was discharged on 23/05/2025 in stable condition with close outpatient follow-up scheduled to monitor the abscess resolution and glycemic control.",Yes,Escherichia coli (ESBL),10/05/2025
+16,"Diagnosis Neutropenic sepsis Suspected fungal infection No bacterial growth in blood cultures
+Clinical Details Ms. Stephanie Wilson, aged 50, was admitted on 05/04/2025 following her third cycle of chemotherapy for acute myeloid leukemia. She presented with high-grade fevers, generalized weakness, and mucositis. She denied any focal symptoms such as cough or urinary complaints. She appeared pale and fatigued with an oral temperature of 39.2°C, blood pressure 100/60 mmHg, and heart rate 110 bpm. She had multiple oral ulcers and a white cell count of 0.3 with severe neutropenia noted.
+Past Medical History Acute myeloid leukemia No other comorbidities
+Drug History Ongoing chemotherapy regimen (daunorubicin and cytarabine) Allopurinol 300mg daily No known drug allergies
+Investigations CBC: Neutrophils 0.1, hemoglobin 7.8, platelets 45 CRP 80 Procalcitonin 0.4 Blood cultures taken on 05/04/2025 (two sets) showed no bacterial growth after five days Beta-D-glucan test positive at 140 pg/mL CT thorax, abdomen, and pelvis showed no obvious bacterial source but suggested possible fungal lesions in both lungs
+Clinical Course She was started on broad-spectrum antibiotics (piperacillin-tazobactam 4.5g TDS IV) and granulocyte colony-stimulating factor on 05/04/2025. Given persistently high fevers and positive beta-D-glucan, antifungal therapy with caspofungin was initiated on 07/04/2025. Blood cultures remained negative for bacteria, and no bacterial pathogen was isolated. Her condition slowly improved, fevers gradually subsided, and she continued on antifungal therapy. She was transferred to the hematology ward for further monitoring of her neutrophil count. She was deemed stable on 15/04/2025 with plans to continue antifungal coverage until neutrophil recovery and negative radiological findings.",No,None,
+17,"Diagnosis Urinary tract infection Benign prostatic hyperplasia No evidence of resistant organism
+Clinical Details Mr. Alan Swift, a 67-year-old male, presented to the emergency department on 25/03/2025 with dysuria, frequency, and lower abdominal discomfort for three days. He reported new-onset hematuria and mild flank pain on the right side but denied any fever or chills. On examination, his temperature was 37.2°C, blood pressure was 132/85 mmHg, and heart rate was 88 bpm. He was alert and oriented. On digital rectal examination, the prostate was mildly enlarged and non-tender.
+Past Medical History Benign prostatic hyperplasia Hyperlipidemia Chronic insomnia
+Drug History Tamsulosin 400 micrograms OD Atorvastatin 40mg nocte Zolpidem 5mg nocte No known drug allergies
+Investigations Urinalysis: Positive for leukocyte esterase and nitrites Urine culture taken on 25/03/2025 grew Escherichia coli on 27/03/2025, sensitive to trimethoprim-sulfamethoxazole, nitrofurantoin, and ciprofloxacin Blood cultures: No growth at 48 hours Renal ultrasound: Mild bilateral hydronephrosis, likely due to long-standing BPH
+Clinical Course He was started empirically on nitrofurantoin 100mg BD on 25/03/2025. On receiving culture sensitivities, the same antibiotic was continued for five days. His symptoms improved, and he was pain-free by day four. He was advised to increase fluid intake, continue tamsulosin, and follow up with urology in four weeks for possible adjustment of BPH management. No signs of resistant organism or complicated infection were noted.",No,None,
+18,"Diagnosis Diabetic foot ulcer Likely infected wound No bacteremia
+Clinical Details Mr. Robert Gale, 60 years old, presented on 18/03/2025 with a non-healing ulcer on his left foot for the past two weeks. He reports increased redness, mild purulent discharge, and discomfort but no fever, rigors, or systemic symptoms. He has a known history of type 2 diabetes mellitus poorly controlled and diabetic neuropathy with reduced protective sensation in both feet.
+Past Medical History Type 2 diabetes mellitus on insulin therapy Hyperlipidemia on simvastatin No known cardiac disease
+Drug History Mixtard insulin 30 units BD Simvastatin 20mg nocte Metformin 1g BD No known drug allergies
+Examination and Investigations The ulcer measured approximately 3 cm in diameter over the plantar aspect of the left foot with surrounding erythema and mild seropurulent drainage. Peripheral pulses were palpable. Ankle-brachial pressure index was 1.1 bilaterally. WCC was 9.8 with no left shift. CRP was 35. Blood cultures taken on 18/03/2025 showed no growth at 48 hours. Wound swab isolated Streptococcus agalactiae, sensitive to co-amoxiclav and clindamycin. MRI foot showed no signs of osteomyelitis.
+Clinical Course In consultation with the diabetic foot clinic, the patient was started on oral co-amoxiclav 625mg TDS. He was advised strict glycemic control and offloading measures. Podiatry performed debridement on 20/03/2025, and daily wound dressings were instituted. Improvement was noted with decreased erythema. The patient was discharged on 24/03/2025 with instructions to continue oral co-amoxiclav for a total of 14 days and to attend wound care follow-up weekly. No bloodstream infection was identified.",No,None,
+19,"Diagnosis Hospital-acquired pneumonia Sepsis Klebsiella pneumoniae bacteremia
+Clinical Details Ms. Jane Smith, a 72-year-old female known to have COPD and hypertension, presented on 04/01/2025 with increasing dyspnea, productive cough of thick yellow sputum, and fever of 38.5°C for the past two days. She was complaining of general weakness, reduced appetite, and confusion. On examination, she was tachypneic with a respiratory rate of 28 breaths/min and oxygen saturation of 94% on 3L nasal cannula. Blood pressure was 105/70 mmHg, heart rate was 120 bpm in sinus rhythm, and temperature was 38.4°C. Chest auscultation revealed reduced air entry in the right lower lobe with coarse crackles. She was noted to have pedal edema up to the ankles.
+Past Medical History COPD with frequent exacerbations Hypertension on amlodipine 10mg daily
+Drug History Amlodipine 10mg daily Budesonide/Formoterol inhaler 2 puffs BD Salbutamol inhaler PRN NKDA
+Investigations WBC 16.5 (neutrophil predominant) CRP 130 Procalcitonin 8.1 Urea 15, creatinine 145, eGFR 40 Arterial blood gas showed mild respiratory acidosis CXR showed consolidation in the right lower lobe Blood cultures taken on 04/01/2025 grew Klebsiella pneumoniae on 05/01/2025. Sensitivity testing on 06/01/2025 indicated resistance to co-amoxiclav and cefuroxime, but sensitivity to piperacillin-tazobactam and meropenem. Sputum culture grew Klebsiella pneumoniae with a similar antibiotic profile.
+Clinical Course She was initially started empirically on co-amoxiclav but was escalated to piperacillin-tazobactam 4.5g TDS IV upon culture results on 06/01/2025. Team of Dr. X (Respiratory) was consulted. The patient remained febrile, so therapy was upgraded to meropenem 1g TDS IV on 08/01/2025. Her confusion improved gradually, and fever subsided. Renal function was closely monitored due to concern for acute kidney injury. She required supplemental oxygen via nasal cannula for four days and showed clinical improvement. A repeat set of blood cultures on 10/01/2025 was negative. She was discharged on 14/01/2025 with a two-week course of oral ciprofloxacin 500mg BD as per ID recommendation and a follow-up chest X-ray booked for 21/02/2025.",Yes,Klebsiella pneumoniae,04/01/2025
+20,"Diagnosis
+
+Acute cholecystitis with empyema of the gallbladder
+Klebsiella pneumoniae (ESBL+ve) from blood cultures
+Decompensated liver cirrhosis
+Clinical Details
+Mr. Ronald Patel, a 58-year-old male
+K/C:
+
+Alcohol-related cirrhosis
+Type 2 Diabetes
+Hyperlipidemia
+Presented to the ED on 02/06/2025 with severe right upper quadrant (RUQ) pain, nausea, vomiting, and subjective fever for 2 days. On examination, patient appeared jaundiced with scleral icterus and signs of fluid overload (ascites).
+
+DH
+
+NKDA
+Metformin 500mg BD
+Propranolol 20mg BD (for portal hypertension)
+Folic acid 5mg Daily
+Spironolactone 100mg Daily
+Parameters
+
+BP: 110/70
+HR: 100
+Temperature: 38.5°C
+SPO2: 98% on RA
+O/E
+
+RUQ: Tender with positive Murphy’s sign
+Abdo: Distended, shifting dullness suggestive of ascites
+LL: No edema
+Investigations
+
+LFTs: Elevated bilirubin (4.2 mg/dL), ALP 300 U/L, GGT 410 U/L
+CBC: WCC 14 x 10^9/L
+CRP: 95 mg/L
+US Abdomen: Thickened gallbladder wall, pericholecystic fluid, features suggestive of empyema
+Blood cultures on 02/06/2025: Grew Klebsiella pneumoniae (ESBL positive) on 03/06/2025, sensitive to meropenem
+Ascitic tap: Serum-ascites albumin gradient (SAAG) consistent with portal hypertension, no spontaneous bacterial peritonitis (SBP)
+Plan
+
+Admit under General Surgery
+Start IV meropenem per sensitivities on 03/06/2025
+Urgent surgical consult for possible cholecystectomy or percutaneous drainage
+Correct coagulopathy (INR elevated at 2.1) prior to any procedure
+Strict fluid balance; maintain albumin infusions if necessary
+Monitor blood sugars closely (due to diabetes + infection)
+During Admission
+
+Percutaneous cholecystostomy performed on 05/06/2025 under radiological guidance
+Empyema drained; fluid sent for culture (Klebsiella pneumoniae ESBL+ve confirmed)
+Meropenem continued for 10 days total
+Discharge Plan
+
+Possible interval cholecystectomy after medical optimization
+Follow-up with Hepatology for cirrhosis management
+ID team recommended outpatient monitoring of liver function and infection markers",Yes,Klebsiella pneumoniae (ESBL-positive),02/06/2025
+21,"Diagnosis
+Acute pyelonephritis
+No bacteremia
+Acute kidney injury (AKI) on background of CKD Stage 2
+
+Clinical Details
+Mr. Rodrigo Mendez, a 52-year-old male
+K/C
+Chronic Kidney Disease Stage 2
+Hypertension
+Presented on 03/11/2025 with left flank pain, high fever (38.8°C), and dysuria for 3 days. He denied any nausea or vomiting but felt generally unwell.
+
+DH
+Lisinopril 10mg daily
+NKDA
+
+Parameters
+BP: 130/80; HR: 94; Temperature: 38.7°C; SPO2: 97% on RA
+Weight 72.5kg
+
+O/E
+CVA tenderness on the left side
+Cardio: Normal S1/S2, no murmur
+Chest: Clear
+
+Investigations
+• CBC: WCC 16 x 10^9/L
+• CRP: 110 mg/L
+• Serum Creatinine: 1.7 mg/dL (baseline 1.2 mg/dL), indicating AKI
+• Urinalysis: Leukocyte +++, Nitrite +ve
+• Blood cultures on 03/11/2025: No growth at 48 hours, final negative
+• Urine culture: E. coli (Extended Spectrum Beta-Lactamase negative) sensitive to ciprofloxacin, ampicillin
+
+Management
+Started on IV ciprofloxacin 400mg BD on 04/11/2025
+Aggressive IV hydration
+Renal function monitored daily; advised to avoid nephrotoxic agents
+Planned switch to oral ciprofloxacin after 3 days if clinically improved",No,None,
+22,"Diagnosis
+Right lower lobe pneumonia
+Suspected MRSA bacteremia
+
+Clinical Details
+Ms. Leah Hunt, a 37-year-old female
+K/C
+Chronic kidney disease Stage 3
+Recurrent skin abscesses
+
+Patient was admitted on 20/07/2025 with fever (39.0°C), productive cough with rust-colored sputum, and pleuritic chest pain for 4 days. She reported a painful ‘boil’ on her left forearm 2 weeks prior that spontaneously drained.
+
+DH
+Erythropoietin injections weekly (for CKD)
+NKDA
+
+Parameters
+BP: 115/70; HR: 116; Temperature: 38.9°C; SPO2: 92% on 2L O?
+Weight 66.0kg
+
+O/E
+Chest: Dullness to percussion over RLL, coarse crackles
+CVS: Tachycardic, no significant murmurs
+Forearm: Healed superficial scar from recent abscess
+
+Investigations
+• CBC: WCC 17 x 10^9/L
+• CRP: 220 mg/L
+• Blood cultures on 20/07/2025: Preliminary Gram-positive cocci in clusters on 21/07/2025; final ID on 22/07/2025 indicates MRSA
+• Sputum culture: Pending results
+• CXR: Infiltrate in right lower lobe
+
+Management
+IV Vancomycin started empirically on 21/07/2025 given suspicion of MRSA
+Dose adjusted according to trough levels and renal function
+Plan to continue IV Vancomycin for at least 10 days or until blood cultures are negative and clinically improved
+Respiratory therapy: Nebulized bronchodilators PRN
+
+Team Input
+Infectious Disease consulted to advise on antibiotic duration and possible oral step-down if sensitivities allow",Yes,MRSA (Methicillin-Resistant Staphylococcus aureus),20/07/2025
+23,"Diagnosis
+Hypertensive emergency
+Left ventricular hypertrophy
+No evidence of active infection
+
+Clinical Details
+Mr. Andrew Fischer, a 50-year-old male
+K/C
+Long-standing hypertension on irregular treatment
+Dyslipidemia
+
+Presented to the ED on 10/06/2025 with severe headache, blurred vision, and a BP reading of 210/118 at home. No fever, chills, or other signs of infection.
+
+DH
+Atenolol 50mg daily (poor adherence reported)
+Simvastatin 20mg nocte
+NKDA
+
+Parameters
+BP: 220/120; HR: 90; Temperature: 36.5°C; SPO2: 98% on RA
+Weight 90.0kg
+
+O/E
+Cardiac: LV heave, no murmurs
+Chest: Clear
+Neuro: Mild papilledema on fundoscopy
+
+Investigations
+• CBC: Normal WCC
+• CRP: <5 mg/L (normal)
+• ECG: LVH changes, no ischemia
+• Urinalysis: No infection, mild proteinuria
+
+Management
+IV antihypertensives (labetalol infusion) initiated to gradually reduce BP
+No antibiotics started as there is no clinical or laboratory evidence of infection
+Advised strict BP control and follow-up with Cardiology
+
+Outcome
+Patient stabilized and transferred to the ward. No further infectious workup needed",No,None,
+24,"Diagnosis
+Septic arthritis of the right knee
+Pseudomonas aeruginosa bacteremia
+
+Clinical Details
+Mr. David Evans, a 62-year-old male
+K/C
+Type 2 Diabetes Mellitus (on oral hypoglycemics)
+Hypertension
+Osteoarthritis of the right knee
+
+Patient presented on 03/04/2025 with a swollen and painful right knee for 5 days. He complained of progressive redness, warmth, and reduced range of motion. Denied any trauma but admitted to self-injecting corticosteroids for pain relief (unprescribed).
+
+DH
+Metformin 500mg BD
+Amlodipine 5mg Daily
+No known drug allergies
+
+Parameters
+BP: 138/82; HR: 100; Temperature: 38.2°C; SPO2: 95% on RA
+Weight 82.5kg
+
+O/E
+Right knee: Swollen, erythematous, effusion present, very tender on palpation
+CVS: Regular rhythm
+Chest: Clear
+
+Investigations
+• CBC: WCC 18 x 10^9/L (predominantly neutrophils)
+• CRP: 120 mg/L
+• Joint aspiration: Purulent fluid, Gram-negative rods on preliminary Gram stain
+• Blood cultures taken on 03/04/2025: Grew Pseudomonas aeruginosa on 04/04/2025, sensitive to Piperacillin-Tazobactam, resistant to Ceftriaxone
+
+Management
+Immediate surgical washout of the knee joint
+IV Piperacillin-Tazobactam 4.5g TDS commenced on 04/04/2025
+Diabetes control optimized (sliding scale insulin if needed)
+Orthopedic review daily for knee management
+Repeat blood cultures on 06/04/2025
+
+Plan
+Continue IV antibiotics for at least 2 weeks, reassess with daily bloods
+Physiotherapy to begin once acute inflammation subsides",Yes,Pseudomonas aeruginosa,03/04/2025
+25,"Diagnosis
+Acute gastroenteritis
+E. coli bacteremia
+Dehydration
+
+Clinical Details
+Ms. Sarah Huang, a 45-year-old female
+K/C
+Irritable Bowel Syndrome (IBS)
+Recurrent UTIs
+Patient presented to the ED on 12/02/2025 with severe vomiting and watery diarrhea for 48 hours. She reported diffuse abdominal cramps but no significant fever at home. On arrival, she was tachycardic and hypotensive, suggesting volume depletion.
+
+DH
+NKDA
+Probiotic supplements OTC
+No chronic prescription medications
+
+Parameters
+BP: 90/58; HR: 110; Temperature: 37.4°C; SPO2: 97% on RA
+Weight 59.0kg
+
+O/E
+Abdo: Mildly distended, hyperactive bowel sounds, tenderness in the lower quadrants
+CVS: Tachycardia with normal S1/S2
+Skin: Poor skin turgor, dry mucous membranes
+
+Investigations
+• CBC: WCC 14 x 10^9/L, neutrophil predominance
+• CRP: 70 mg/L
+• U&E: Evidence of prerenal azotemia
+• Stool culture: Positive for Enterotoxigenic E. coli (ETEC)
+• Blood cultures on 12/02/2025: Grew E. coli (sensitive to ceftriaxone, resistant to ampicillin) on 13/02/2025
+
+Management
+Aggressive IV fluid resuscitation with normal saline
+IV ceftriaxone 1g BD commenced on 13/02/2025 based on sensitivity
+Monitor electrolytes and renal function daily
+Advise antiemetics (Ondansetron 8mg IV PRN)
+Plan for repeat blood cultures on 15/02/2025
+
+Discharge Plan
+Consider switch to oral ciprofloxacin if cultures remain negative after 48 hours of therapy
+Outpatient follow-up with Gastroenterology in 2 weeks",Yes,E. coli,12/02/2025
+26,"Diagnosis
+Left hip prosthetic joint infection
+Methicillin-Sensitive Staphylococcus aureus (MSSA) bacteremia
+
+Clinical Details
+Mr. Kevin Alvarez, a 64-year-old male
+K/C
+Osteoarthritis, status post left total hip replacement 2 years ago
+Hypertension
+
+Presented on 02/03/2026 with progressive left hip pain, inability to bear weight, and fever (38.0°C) for 1 week. He noticed increased swelling and warmth around the hip.
+
+DH
+Amlodipine 5mg daily
+NKDA
+
+Parameters
+BP: 123/72; HR: 102; Temperature: 38.2°C; SPO2: 97% on RA
+Weight 80.0kg
+
+O/E
+Left Hip: Painful, warm, reduced range of motion, slight erythema
+CVS: Mild tachycardia
+Chest: Clear
+
+Investigations
+• CBC: WCC 18 x 10^9/L, neutrophil predominance
+• CRP: 200 mg/L
+• Left hip X-ray: Possible loosening of prosthesis, peri-prosthetic lucency
+• Blood cultures (02/03/2026): Grew MSSA on 03/03/2026
+
+Sensitive to Flucloxacillin, resistant to Penicillin G
+• Joint aspiration: Purulent fluid; Gram-positive cocci in clusters
+Management
+Orthopedic surgery consult—plan for surgical debridement
+IV Flucloxacillin 2g 4-hourly commenced on 03/03/2026
+Repeat blood cultures on 05/03/2026
+Aim for 4-6 weeks IV therapy, then reassess for possible prosthesis exchange",Yes,MSSA (Methicillin-Sensitive Staphylococcus aureus),02/03/2026
+27,"Diagnosis
+Hospital-acquired pneumonia (HAP)
+Acinetobacter baumannii (colonization suspected)
+No documented bacteremia
+
+Clinical Details
+Ms. Naomi Kwan, a 67-year-old female
+K/C
+Chronic obstructive pulmonary disease (COPD)
+Previous ICU admission 3 months ago
+
+Admitted on 14/01/2026 with increased sputum production, dyspnea, and hypoxia. She had been in the hospital for a hip fracture surgery 10 days prior.
+
+DH
+Tiotropium inhaler once daily
+Salbutamol inhaler PRN
+NKDA
+
+Parameters
+BP: 128/75; HR: 95; Temperature: 38.2°C; SPO2: 90% on 3L O?
+Weight 58.0kg
+
+O/E
+Chest: Diffuse crackles, worse in right mid-zone
+CVS: Normal rhythm, no murmurs
+Extremities: Post-op wound on the right hip, healing well
+
+Investigations
+• CBC: Mild leukocytosis (WCC 12 x 10^9/L)
+• CRP: 90 mg/L
+• Sputum culture: Grew Acinetobacter baumannii (sensitive to colistin, but no systemic antibiotics indicated yet as colonization likely)
+• Blood cultures (14/01/2026): No growth at 72 hours
+
+Management
+Started IV piperacillin-tazobactam empirically for HAP
+Consulted Infectious Diseases for possibility of escalated coverage if needed
+No signs of bacteremia; continuing supportive care with oxygen therapy, physiotherapy",No,None,
+28,"Diagnosis
+Sepsis secondary to intra-abdominal abscess
+Polymicrobial bacteremia (E. coli, Bacteroides fragilis)
+
+Clinical Details
+Mr. Alfonso Rossi, a 62-year-old male
+K/C
+Diverticular disease
+Obesity
+
+Presented on 25/10/2025 with severe left lower quadrant pain, fever (38.5°C), and localized guarding. Denied significant diarrhea or vomiting but reported reduced oral intake.
+
+DH
+Omeprazole 20mg Daily
+NKDA
+
+Parameters
+BP: 105/68; HR: 118; Temperature: 38.7°C; SPO2: 96% on RA
+Weight 95.0kg
+
+O/E
+Abdo: Tenderness and guarding in the left iliac fossa, mild rebound tenderness
+CVS: Tachycardic
+Chest: Clear
+
+Investigations
+• CBC: WCC 21 x 10^9/L
+• CRP: 240 mg/L
+• Abdominal CT (25/10/2025): Sigmoid diverticular abscess ~3cm with surrounding inflammation
+• Blood cultures (25/10/2025): Grew E. coli and Bacteroides fragilis on 27/10/2025
+
+E. coli sensitive to Piperacillin-Tazobactam, resistant to Ampicillin
+Bacteroides fragilis sensitive to Metronidazole
+Management
+Emergency surgical consult—percutaneous drainage performed on 26/10/2025
+IV Piperacillin-Tazobactam 4.5g TDS + IV Metronidazole 500mg TDS
+Repeat blood cultures every 48 hours
+Plan for 10-14 days of antibiotic therapy pending clinical response",Yes,E. coli and Bacteroides fragilis,25/10/2025
+29,"Diagnosis
+Transient ischemic attack (TIA)
+Uncontrolled hypertension
+No current infection
+
+Clinical Details
+Mr. Philip Watson, a 58-year-old male
+K/C
+Hypertension
+Hyperlipidemia
+
+Presented to ED on 18/09/2025 with sudden onset left-sided weakness that resolved spontaneously within 30 minutes. No fever, chills, or infectious symptoms.
+
+DH
+Amlodipine 10mg Daily
+Atorvastatin 20mg Nocte
+NKDA
+
+Parameters
+BP: 190/105; HR: 88; Temperature: 36.6°C; SPO2: 98% on RA
+Weight 75.0kg
+
+O/E
+Neuro: No focal deficit at presentation, stable NIHSS 0
+Cardio: S1 + S2 normal, no murmurs
+Chest: Clear
+
+Investigations
+• CBC: Normal WCC, no sign of infection
+• CRP: 3 mg/L (normal)
+• CT Brain: No acute ischemic changes, no hemorrhage
+• Blood cultures: Not indicated, none taken
+
+Management
+Admitted for BP control and stroke prevention
+No antibiotics started as there is no clinical indication
+Commenced dual antiplatelet therapy (Aspirin + Clopidogrel) for 21 days, then Aspirin alone
+Advice on lifestyle modification and strict follow-up with Neurology",No,None,
+30,"Diagnosis
+Complicated urinary tract infection (UTI)
+Vancomycin-resistant Enterococcus faecium (VRE) bacteremia
+Acute kidney injury (AKI)
+
+Clinical Details
+Ms. Patricia Beltran, a 71-year-old female
+K/C
+Chronic Kidney Disease Stage 3
+Type 2 Diabetes Mellitus
+
+Presented on 05/08/2025 with flank pain, fever (39.1°C), and dysuria for 3 days. She also noted decreased urine output and generalized weakness.
+
+DH
+Metformin 500mg BD
+Losartan 50mg Daily
+NKDA
+
+Parameters
+BP: 100/64; HR: 110; Temperature: 38.9°C; SPO2: 98% on RA
+Weight 60.0kg
+
+O/E
+CVA tenderness bilaterally, more pronounced on the left
+Cardio: Tachycardic, normal S1 and S2
+Resp: Clear on auscultation
+
+Investigations
+• CBC: WCC 19 x 10^9/L, neutrophil predominant
+• CRP: 185 mg/L
+• U&E: Worsening renal function, Creatinine 2.1 mg/dL (baseline 1.4)
+• Urine culture: Enterococcus faecium (VRE) identified on 06/08/2025
+• Blood cultures (05/08/2025): Grew vancomycin-resistant Enterococcus faecium on 07/08/2025, resistant to vancomycin, sensitive to Linezolid
+
+Management
+Immediate IV fluid resuscitation
+Commenced on IV Linezolid 600mg BD on 07/08/2025
+Daily renal function monitoring
+Infectious Disease consult for antibiotic duration
+Plan for repeat blood cultures on 09/08/2025
+
+Plan
+Consider adding gentamicin if synergy recommended by ID
+Strict glycemic control to minimize risk of complications",Yes,Vancomycin-resistant Enterococcus faecium,05/08/2025
+31,"Diagnosis
+Complicated urinary tract infection with sepsis
+Carbapenem-resistant Acinetobacter baumannii (CRAB) bacteremia
+
+Clinical Details
+Mr. Simon Albright, a 64-year-old male
+K/C
+Benign prostatic hyperplasia (BPH)
+Type 2 Diabetes Mellitus
+Previous urinary catheter use
+
+Presented on 15/09/2026 with dysuria, high fever (39.1°C), and flank pain. He reported burning micturition for a week but delayed seeking medical attention.
+
+DH
+Tamsulosin 400mcg Daily
+Metformin 1g BD
+NKDA
+
+Parameters
+BP: 100/65; HR: 120; Temperature: 39.0°C; SPO2: 95% on RA
+Weight: 78.0kg
+
+O/E
+CVA tenderness on right side
+Prostate exam: Firm, moderately enlarged, non-tender
+CVS: Tachycardic
+
+Investigations
+• CBC: WCC 16 x 10^9/L
+• CRP: 160 mg/L
+• Serum Creatinine: 1.6 mg/dL (slightly above baseline 1.2 mg/dL)
+• Blood cultures on 15/09/2026: Grew Acinetobacter baumannii (carbapenem-resistant) on 16/09/2026
+• Urine culture: Same pathogen, resistant to carbapenems, sensitive to colistin
+
+Management
+IV colistin commenced on 16/09/2026 after sensitivities
+ID consult for antibiotic stewardship and possible combination therapy (colistin + tigecycline)
+Strict glycemic control
+Monitor renal function daily to adjust dosing if needed",Yes,Carbapenem-resistant Acinetobacter baumannii,15/09/2026
+32,"Diagnosis
+Community-acquired pneumonia (CAP)
+Bilateral pleural effusions
+No bacteremia identified
+
+Clinical Details
+Mrs. Elena Petrova, a 46-year-old female
+K/C
+Bronchial asthma
+No previous hospital admissions
+
+Presented on 01/08/2026 with shortness of breath, productive cough with yellowish sputum, and left-sided chest discomfort for 1 week. She had a low-grade fever at home but no rigors.
+
+DH
+Salbutamol inhaler PRN
+Budesonide inhaler BD
+NKDA
+
+Parameters
+BP: 110/72; HR: 105; Temperature: 37.9°C; SPO2: 93% on RA (improves to 97% on 3L O?)
+Weight: 60.0kg
+
+O/E
+Chest: Crackles at both lung bases, decreased breath sounds over the left lower zone
+CVS: Tachycardic, normal S1/S2
+
+Investigations
+• CBC: WCC 13 x 10^9/L
+• Blood cultures on 01/08/2026: No growth at 48 hours (final negative)
+• Sputum culture: Growth of Streptococcus pneumoniae, sensitive to Penicillin
+• CXR: Bilateral pleural effusions, more on the left
+
+Management
+IV Benzylpenicillin 1.2g QDS
+Thoracentesis considered if fluid accumulates significantly or for diagnostic purposes
+Continue close respiratory monitoring, oxygen therapy as needed
+Advise chest physiotherapy and incentive spirometry",No,None,
+33,"Diagnosis
+Neutropenic sepsis
+Polymicrobial bacteremia (Enterococcus faecium and Pseudomonas aeruginosa)
+Acute myeloid leukemia (AML)
+
+Clinical Details
+Ms. Rachel Watts, a 35-year-old female
+K/C
+Acute myeloid leukemia on induction chemotherapy
+Severe neutropenia (ANC < 0.2 x 10^9/L)
+
+Presented on 18/05/2026 with high-grade fevers, shaking chills, and mucosal ulcerations in her mouth. Complained of general weakness and poor oral intake.
+
+DH
+Chemotherapy regimen (Cytarabine + Daunorubicin)
+5-HT3 antagonist PRN for nausea
+NKDA
+
+Parameters
+BP: 98/60; HR: 120; Temperature: 39.2°C; SPO2: 96% on RA
+Weight: 61.0kg
+
+O/E
+Oral cavity: Multiple ulcerations on buccal mucosa
+Chest: Mild bibasal crackles
+CVS: Tachycardic, no obvious murmurs
+
+Investigations
+• CBC: WCC 0.9 x 10^9/L, absolute neutrophil count (ANC) 0.18 x 10^9/L
+• CRP: 180 mg/L
+• Blood cultures on 18/05/2026: Grew Enterococcus faecium (Vancomycin-resistant) and Pseudomonas aeruginosa (sensitive to Piperacillin-Tazobactam) on 19/05/2026
+• CXR: Mild perihilar infiltrates, no consolidation
+
+Management
+Initiated empirical therapy with IV Piperacillin-Tazobactam + Teicoplanin on 18/05/2026
+Upgraded to IV Ceftazidime-Avibactam + Linezolid once sensitivities confirmed for resistant Enterococcus faecium
+Strict neutropenic precautions, barrier nursing
+Daily full blood counts and repeat cultures in 72 hours",Yes,Enterococcus faecium (VRE) and Pseudomonas aeruginosa,18/05/2026
+34,"Diagnosis
+Spontaneous bacterial peritonitis (SBP)
+No evidence of bacteremia
+Decompensated cirrhosis with ascites
+
+Clinical Details
+Mr. Omar Rahim, a 60-year-old male
+K/C
+Alcoholic liver disease with portal hypertension
+Previous variceal bleed in 2024
+
+Patient was admitted on 10/04/2026 with abdominal pain, increasing ascites, and mild confusion (possible hepatic encephalopathy). No frank hematemesis or melena.
+
+DH
+Propranolol 20mg BD
+Spironolactone 100mg Daily
+Furosemide 40mg Daily
+Lactulose 15ml TDS
+
+Parameters
+BP: 100/65; HR: 95; Temperature: 37.7°C; SPO2: 98% on RA
+Weight: 69.0kg
+
+O/E
+Abdomen: Distended with shifting dullness, mild tenderness
+Resp: Clear chest
+Neuro: Mild confusion, no focal deficits
+
+Investigations
+• Diagnostic paracentesis on 10/04/2026: Neutrophil count in ascitic fluid 350 cells/µL, culture grew E. coli
+• Blood cultures on 10/04/2026: No growth at 48 hours, final negative
+• LFTs: Elevated bilirubin, low albumin
+• INR: 1.8
+
+Management
+IV cefotaxime 2g TDS for 5 days (SBP protocol)
+IV albumin infusion on day 1 and day 3 to prevent renal impairment
+No changes to diuretics but strict I/O charting
+Monitor ammonia levels; lactulose titrated for encephalopathy",No,None,
+35,"Diagnosis
+Line-related sepsis
+Candida albicans fungemia
+Chronic kidney disease stage 4
+
+Clinical Details
+Mr. Patrick Lang, a 57-year-old male
+K/C
+End-stage renal disease on hemodialysis via tunneled central venous catheter
+Type 2 Diabetes Mellitus
+Hypertension
+
+Patient presented on 05/02/2026 with fever, chills, and catheter site erythema for 2 days. Complained of malaise and decreased urine output (though on dialysis).
+
+DH
+Insulin (basal-bolus regimen)
+Amlodipine 5mg Daily
+Sevelamer 800mg TDS
+NKDA
+
+Parameters
+BP: 110/70; HR: 108; Temperature: 38.5°C; SPO2: 97% on RA
+Weight: 73.0kg
+
+O/E
+Central line insertion site: Erythema, slight purulent discharge
+Chest: Clear
+CVS: Tachycardic, no murmur
+
+Investigations
+• CBC: WCC 12 x 10^9/L
+• CRP: 110 mg/L
+• Blood cultures on 05/02/2026: Grew Candida albicans on 06/02/2026 (line culture positive)
+• Renal function: Baseline high creatinine (due to ESRD)
+• Catheter swab culture: Yeast colonies consistent with Candida albicans
+
+Management
+Central venous catheter removed on 06/02/2026
+Started on IV caspofungin for 14 days due to CKD stage 4 (alternative to fluconazole)
+ID team consulted; recommended removal of all indwelling lines and thorough site care
+Repeat blood cultures in 48 hours",Yes,Candida albicans,05/02/2026
+36,"Diagnosis
+Diabetic foot ulcer
+No bacteremia
+Peripheral arterial disease (PAD)
+
+Clinical Details
+Mr. Jason Calder, a 60-year-old male
+K/C
+Type 2 Diabetes Mellitus poorly controlled
+Peripheral arterial disease (smoker)
+Presented on 01/10/2025 with a non-healing plantar ulcer on the right foot. No fever or systemic symptoms.
+
+DH
+Metformin 1g BD
+Clopidogrel 75mg Daily
+NKDA
+
+Parameters
+BP: 135/84; HR: 88; Temperature: 36.7°C; SPO2: 98% on RA
+Weight 85.0kg
+
+O/E
+Right foot: 3cm x 2cm ulcer over the ball of the foot, foul-smelling discharge but no signs of deep infection
+Peripheral pulses: Diminished dorsalis pedis pulse on right side
+No signs of acute infection systemically
+
+Investigations
+• CBC: Mildly elevated WCC (11 x 10^9/L)
+• CRP: 45 mg/L
+• Wound swab culture: Mixed growth with skin flora, no significant pathogen isolated
+• Blood cultures on 01/10/2025: Negative at 48 hours, final negative
+
+Management
+Wound debridement and local antiseptic dressings
+Empirical oral co-amoxiclav 625mg TDS for 7 days to cover common skin flora
+Optimization of diabetes control (endocrine review)
+Vascular surgery input for PAD management
+
+Outcome
+No evidence of bloodstream infection. Wound care continues with regular follow-up in Podiatry Clinic.",No,None,
+37,"Diagnosis
+Community-acquired pneumonia
+Streptococcus pneumoniae bacteremia
+
+Clinical Details
+Ms. Nicole Carter, a 42-year-old female
+K/C
+Asthma (on inhaled corticosteroids)
+No other significant comorbidities
+Presented on 14/03/2025 with a 5-day history of high-grade fevers (39.0°C), productive cough with yellow sputum, and pleuritic chest pain. Reports mild wheeze episodes.
+
+DH
+Budesonide/Formoterol inhaler BD
+Salbutamol inhaler PRN
+NKDA
+
+Parameters
+BP: 118/72; HR: 105; Temperature: 39.2°C; SPO2: 94% on room air
+Weight 65.0kg
+
+O/E
+Chest: Bronchial breathing over right lower zone, crepitations in the same region
+CVS: Tachycardic, no murmurs
+Asthma: Mild wheeze, improved with bronchodilator
+
+Investigations
+• CBC: WCC 18 x 10^9/L
+• CRP: 190 mg/L
+• Blood cultures on 14/03/2025: Grew Streptococcus pneumoniae on 15/03/2025, sensitive to penicillin
+• CXR: Right lower lobe consolidation
+
+Management
+IV Benzylpenicillin 1.2g QDS initiated on 15/03/2025
+Nebulized bronchodilators for asthma exacerbation PRN
+Chest physiotherapy advised
+Repeat blood cultures planned on 17/03/2025 to ensure clearance
+
+Plan
+Duration of IV antibiotics for at least 5 days, then switch to oral amoxicillin if clinically improved
+Follow-up chest X-ray in 4 weeks",Yes,Streptococcus pneumoniae,14/03/2025
+38,"Diagnosis
+Hemodialysis catheter-related bloodstream infection
+Staphylococcus epidermidis bacteremia
+Chronic renal failure (CRF) on maintenance dialysis
+
+Clinical Details
+Mr. Sean Bartlett, a 66-year-old male
+K/C
+End-stage renal disease (ESRD) on thrice-weekly hemodialysis
+Type 2 Diabetes Mellitus
+Patient presented on 15/01/2025 with fever (38.5°C), chills, and tenderness over his right subclavian dialysis catheter site. He has a history of repeated catheter site infections.
+
+DH
+Insulin Mixtard 30 units BD
+Aspirin 75mg Daily
+Amlodipine 5mg Daily
+NKDA
+
+Parameters
+BP: 140/85; HR: 100; Temperature: 38.4°C; SPO2: 96% on RA
+Weight 80.0kg
+
+O/E
+Local Exam: Catheter insertion site appears erythematous with mild purulent discharge
+Chest: Clear on auscultation
+CVS: S1+S2 normal, no new murmurs
+
+Investigations
+• CBC: WCC 14 x 10^9/L
+• CRP: 95 mg/L
+• Blood cultures from 15/01/2025: Grew Staphylococcus epidermidis (coagulase-negative staphylococci) on 16/01/2025, sensitive to vancomycin and linezolid
+• Renal profile: Stable baseline
+
+Management
+Catheter removal and insertion of new vascular access site planned
+IV vancomycin started on 16/01/2025, dose adjusted per trough levels in view of renal failure
+Daily dressing of catheter site
+Dialysis schedule maintained, with strict infection control measures
+Infectious Diseases team consulted for optimal antibiotic duration (suggested 10-14 days)",Yes,Staphylococcus epidermidis,15/01/2025
+39,"Diagnosis
+Transient ischemic attack (TIA)
+Uncontrolled hypertension
+No evidence of active infection
+
+Clinical Details
+Ms. Deborah King, a 58-year-old female
+K/C
+Hypertension
+Hyperlipidemia
+Patient was brought in by ambulance on 02/03/2025 with sudden onset left-sided weakness and slurred speech lasting 20 minutes, which resolved spontaneously. Denies fever, chills, or any recent illnesses.
+
+DH
+Amlodipine 10mg Daily
+Atorvastatin 20mg Nocte
+NKDA
+
+Parameters
+BP: 198/110; HR: 88; Temperature: 36.7°C; SPO2: 98% on RA
+Weight 85.5kg
+
+O/E
+Neurological: Currently no focal deficits on exam, NIHSS = 0 after symptom resolution
+CVS: Normal heart sounds, no murmurs
+Chest: Clear
+
+Investigations
+• CBC: WCC 7 x 10^9/L, normal differential
+• CRP: 5 mg/L (within normal limits)
+• Brain CT: No acute infarct, no hemorrhage
+• Carotid Doppler: Mild atherosclerotic plaques
+• Blood cultures: Not indicated clinically; none taken
+
+Management
+Admitted for blood pressure control and stroke prevention
+Started on Aspirin 300mg stat, then 75mg daily plus Clopidogrel 75mg daily (dual antiplatelet therapy)
+No antibiotics commenced as no suspicion of infection
+
+Outcome
+Patient to have further imaging (MRI brain) to rule out minor infarction
+Follow-up in TIA Clinic after discharge",No,None,
+40,"Diagnosis
+Neutropenic fever
+Serratia marcescens bacteremia
+Acute Myeloid Leukemia (AML) on chemotherapy
+
+Clinical Details
+Ms. Angela Bell, a 49-year-old female
+K/C
+AML undergoing induction chemotherapy
+Neutropenic (WCC 0.9 x 10^9/L)
+Presented on 08/05/2025 with high fever (39.2°C), rigors, generalized weakness, and mucositis.
+
+DH
+Chemotherapy: Cytarabine + Daunorubicin cycle
+Ondansetron 8mg IV PRN
+No known drug allergies
+
+Parameters
+BP: 110/68; HR: 118; Temperature: 39.3°C; SPO2: 95% on RA
+Weight 62.0kg
+
+O/E
+Oral mucosa: Ulceration and bleeding gums
+Chest: Clear on auscultation
+Abdomen: Soft, non?tender
+Skin: No obvious rashes
+
+Investigations
+• CBC: Profound neutropenia, platelets 42 x 10^9/L
+• CRP: 180 mg/L
+• Blood cultures on 08/05/2025: Grew Serratia marcescens on 09/05/2025, sensitive to meropenem, resistant to cefotaxime
+• Renal function: Normal
+
+Management
+Empirical broad-spectrum antibiotics with IV piperacillin-tazobactam started on admission (08/05/2025), escalated to IV meropenem on 09/05/2025 once sensitivities known
+G-CSF support considered to shorten duration of neutropenia
+Daily CBC and CRP monitoring
+ID team recommended minimum 14-day course or until neutrophil recovery
+
+Plan
+Monitor for complications like septic shock or fungal superinfections
+Maintain strict asepsis",Yes,Serratia marcescens,08/05/2025
+41,"Diagnosis
+Cellulitis of the left lower limb
+No bacteremia
+Type 2 Diabetes Mellitus
+
+Clinical Details
+Mr. Roger Mills, a 56-year-old male
+K/C
+Type 2 Diabetes Mellitus (T2DM)
+Obesity
+Presented to the ED on 18/09/2025 with redness, warmth, and swelling of his left calf for 3 days. He denies fever or chills, but reports throbbing pain and difficulty bearing weight.
+
+DH
+Metformin 500mg TDS
+Atorvastatin 40mg Nocte
+NKDA
+
+Parameters
+BP: 130/85; HR: 94; Temperature: 37.2°C; SPO2: 98% on RA
+Weight 105.0kg
+
+O/E
+Left calf: Erythema extending around 10 cm above the ankle, mild edema, tender on palpation
+No obvious breaks in skin except mild dryness
+Peripheral pulses: Intact
+No signs of abscess formation clinically
+
+Investigations
+• CBC: WCC 10 x 10^9/L, mild neutrophilia
+• CRP: 45 mg/L
+• Blood cultures on 18/09/2025: No growth at 48 hours, final negative
+• Fasting glucose: 9.5 mmol/L (suboptimal control)
+• Doppler US: No evidence of DVT
+
+Management
+Commenced on oral Flucloxacillin 500mg QDS for 7 days (advised to switch to Clarithromycin if penicillin allergy arises)
+Tight glycemic control with insulin sliding scale if needed
+Elevation of limb and compression stockings once swelling subsides
+
+Plan
+Outpatient follow-up with Diabetic Foot Clinic for prophylactic care
+Advise on weight reduction, glycemic optimization",No,None,
+42,"Diagnosis
+Spinal epidural abscess
+Salmonella enteritidis bacteremia
+Hypertension
+
+Clinical Details
+Mr. Jeremy O’Neill, a 53-year-old male
+K/C
+Hypertension on Ramipril
+Obesity
+Patient was admitted on 02/12/2025 with severe back pain localized to the lumbar region, fever (38.6°C), and difficulty ambulating. MRI spine revealed an epidural collection compressing the spinal cord at L3-L4.
+
+DH
+Ramipril 5mg Daily
+Paracetamol 1g QDS PRN for pain
+NKDA
+
+Parameters
+BP: 135/82; HR: 102; Temperature: 38.9°C; SPO2: 97% on RA
+Weight 92.0kg
+
+O/E
+Neuro: Reduced power (4/5) in both lower limbs, mild sensory deficit in the L3 dermatome
+CVS: Regular rhythm, no murmur
+Abdo: Soft, non?tender
+
+Investigations
+• CBC: WCC 16 x 10^9/L
+• CRP: 150 mg/L
+• MRI Lumbar Spine: Epidural abscess at L3-L4 causing mild cord compression
+• Blood cultures on 02/12/2025: Grew Salmonella enteritidis on 03/12/2025, sensitive to ceftriaxone, resistant to ampicillin
+• Stool culture: Positive for Salmonella (matching blood isolate)
+
+Management
+Urgent neurosurgical drainage performed on 03/12/2025
+IV ceftriaxone 2g OD started immediately after sensitivities available
+Pain management with IV morphine if required
+Plan repeat blood cultures on 05/12/2025 to confirm clearance
+Monitor neurological status closely
+
+Outcome
+Patient to remain in hospital for at least 2 weeks of IV therapy, with repeat imaging to assess resolution of abscess",Yes,Salmonella enteritidis,02/12/2025
+43,"Diagnosis
+Osteomyelitis of the left femur
+Vancomycin-resistant Enterococcus (VRE) bacteremia
+
+Clinical Details
+Mr. George Peterson, a 67-year-old male
+K/C
+Type 2 Diabetes Mellitus (poorly controlled)
+Peripheral vascular disease
+History of chronic ulcers on the left foot
+
+Patient presented on 15/08/2025 with a 1-week history of increasing left thigh pain and fever. He has a chronic foot ulcer that extends to the metatarsals, previously debrided.
+
+DH
+Metformin 1g BD
+Clopidogrel 75mg daily
+No known drug allergies
+
+Parameters
+BP: 125/78; HR: 105; Temperature: 38.2°C; SPO2: 96% on RA
+Weight 74.0kg
+
+O/E
+Left thigh: Tenderness on palpation, mild swelling, local warmth
+Foot ulcer: Poorly granulating tissue with seropurulent discharge
+CVS: Tachycardic, otherwise normal S1+S2
+
+Investigations
+• CBC: WCC 16 x 10^9/L
+• CRP: 180 mg/L
+• MRI left femur: Findings suggestive of osteomyelitis (subperiosteal abscess)
+• Blood cultures on 15/08/2025: Grew Enterococcus faecium (vancomycin-resistant) on 16/08/2025
+• Wound swab culture: Same organism isolated
+
+Management
+Started on IV Linezolid 600mg BD on 16/08/2025 after sensitivities confirmed
+Surgical consultation for possible debridement of infected bone
+Glycemic control optimization with insulin sliding scale
+Repeat blood cultures planned on 18/08/2025
+
+Plan
+Continue IV Linezolid for a minimum of 6 weeks given chronic osteomyelitis
+Wound care with daily dressing changes
+Podiatry involvement for offloading and ulcer management",Yes,Vancomycin-resistant Enterococcus faecium,15/08/2025
+44,"Diagnosis
+Acute viral meningitis
+No evidence of bacteremia
+Migraine with aura
+
+Clinical Details
+Ms. Olivia Carter, a 29-year-old female
+K/C
+Migraines (on prophylaxis)
+No significant past medical history of note
+
+Presented to the ED on 02/09/2025 complaining of severe headache, photophobia, and neck stiffness for 2 days. She had intermittent low-grade fevers but reported no focal neurologic deficits.
+
+DH
+Topiramate 25mg BD for migraine prophylaxis
+NKDA
+
+Parameters
+BP: 115/74; HR: 96; Temperature: 37.8°C; SPO2: 99% on RA
+Weight 62.0kg
+
+O/E
+Neuro: Positive neck stiffness, negative Kernig’s and Brudzinski’s signs
+Cardiac: Normal rate and rhythm
+No rash or focal deficits
+
+Investigations
+• CBC: Mild lymphocytic predominance, WCC 8 x 10^9/L
+• CRP: 15 mg/L
+• Blood cultures on 02/09/2025: No growth at 48 hours, final negative
+• Lumbar puncture: Elevated lymphocytes, normal glucose, negative bacterial cultures, suggestive of viral etiology
+
+Management
+Supportive treatment with IV fluids, analgesics (IV paracetamol 1g QDS)
+No antibiotics started as bacterial infection was deemed unlikely
+Neuro observations to monitor for raised intracranial pressure
+
+Outcome
+Patient improved symptomatically over 3 days
+Discharged with advice to continue migraine prophylaxis and follow-up if symptoms recur",No,None,
+45,"Diagnosis
+Lower gastrointestinal bleed
+Multidrug-resistant Acinetobacter baumannii (MDR-AB) bacteremia
+
+Clinical Details
+Mr. Charles Lambert, a 75-year-old male
+K/C
+Chronic kidney disease (Stage 4)
+Diverticular disease
+Recent hospitalization for pneumonia (discharged 1 week ago)
+
+Presented on 10/10/2025 with melena, fatigue, and dizziness for 2 days. On arrival, he was found to be hypotensive and required aggressive fluid resuscitation.
+
+DH
+Aspirin 75mg daily
+Calcium acetate 667mg TDS
+NKDA
+
+Parameters
+BP: 90/55; HR: 118; Temperature: 38.0°C; SPO2: 97% on RA
+Weight 70.0kg
+
+O/E
+Abdo: Soft, mild tenderness in the left iliac fossa
+Rectal exam: Melena present
+CVS: Tachycardic but normal heart sounds
+
+Investigations
+• CBC: WCC 14 x 10^9/L, Hb 8.5 g/dL (down from baseline 11 g/dL)
+• CRP: 100 mg/L
+• Endoscopy: Active bleeding in sigmoid diverticula; hemostasis achieved via endoscopic clipping
+• Blood cultures on 10/10/2025: Grew MDR Acinetobacter baumannii on 11/10/2025 (resistant to carbapenems, sensitive to colistin)
+
+Management
+Urgent blood transfusion (2 units packed RBCs)
+IV Colistin started on 11/10/2025 after sensitivities
+Close monitoring of renal function given CKD
+Repeat blood cultures on 13/10/2025
+
+Plan
+Continue colistin IV for 10-14 days based on ID team advice
+Gastroenterology follow-up for recheck endoscopy if rebleed occurs
+Consider adjusting aspirin therapy after bleeding stabilizes",Yes,Multidrug-resistant Acinetobacter baumannii,10/10/2025
+46,"Diagnosis
+Exacerbation of chronic heart failure
+Community-acquired pneumonia
+No bloodstream infection
+
+Clinical Details
+Ms. Pauline Mills, a 73-year-old female
+K/C
+Ischemic cardiomyopathy, EF 35%
+Atrial fibrillation on anticoagulation (Apixaban)
+Osteoporosis
+
+Presented on 25/10/2025 with increased shortness of breath, orthopnea, productive cough with yellow sputum for 5 days. She denied chest pain but felt extremely fatigued.
+
+DH
+Apixaban 5mg BD
+Bisoprolol 5mg OD
+Frusemide 40mg BD
+Alendronate 70mg weekly
+NKDA
+
+Parameters
+BP: 130/85; HR: 110 (AF), Temperature: 37.8°C; SPO2: 95% on 2L O?
+Weight 62.0kg
+
+O/E
+Chest: Bilateral basal crepitations, mild wheeze, productive cough
+CVS: Irregularly irregular rhythm
+Abdo: Soft, non-distended
+
+Investigations
+• CBC: WCC 11 x 10^9/L
+• CRP: 50 mg/L
+• Blood cultures on 25/10/2025: No growth at 48 hours, final negative
+• CXR: Mild infiltrates in the right lower zone, cardiomegaly
+
+Management
+Started on oral co-amoxiclav 625mg TDS for 7 days for pneumonia
+Optimized diuretics for volume overload (increased Frusemide to 40mg TDS)
+Daily weights and fluid balance monitoring
+
+Outcome
+No indication of bacteremia
+Patient showed clinical improvement; plan to discharge once stable from a respiratory standpoint",No,None,
+47,"Diagnosis
+Central line-associated bloodstream infection (CLABSI)
+Coagulase-negative Staphylococci (CONS)
+Breast cancer with ongoing chemotherapy
+
+Clinical Details
+Ms. Hannah Green, a 49-year-old female
+K/C
+Stage IIIB breast cancer (on neoadjuvant chemotherapy)
+Neutropenia (WCC 1.5 x 10^9/L)
+Patient presented on 05/12/2025 with fever (38.9°C), chills, and malaise. She has an indwelling PICC line for chemotherapy.
+
+DH
+Doxorubicin and Cyclophosphamide regimen
+Ondansetron 8mg IV PRN
+NKDA
+
+Parameters
+BP: 100/65; HR: 115; Temperature: 39.0°C; SPO2: 97% on RA
+Weight 58.0kg
+
+O/E
+Local site of PICC line: Mild erythema, tenderness
+Chest: Clear
+CVS: Tachycardic but no murmurs
+
+Investigations
+• CBC: Neutropenia (WCC 1.5 x 10^9/L), Hb 10.0 g/dL
+• CRP: 120 mg/L
+• Blood cultures on 05/12/2025: Grew Coagulase-negative Staphylococcus (CONS) on 06/12/2025, sensitive to Vancomycin
+• Catheter tip culture: Same organism isolated
+
+Management
+Removal of the indwelling PICC line
+IV Vancomycin 1g BD started on 06/12/2025
+Supportive care with IV fluids, antipyretics
+Repeat blood cultures every 48 hours until clearance
+
+Plan
+ID team to advise on duration of therapy (likely 7-14 days)
+Consider new venous access device once infection clears and WCC recovers
+Monitor for signs of sepsis or hemodynamic instability",Yes,Coagulase-negative Staphylococci (CONS),05/12/2025
+48,"Diagnosis
+Neutropenic sepsis
+Candidemia
+Acute myeloid leukemia (AML)
+
+Clinical Details
+Mr. Adrian Lewis, a 49-year-old male
+K/C
+Acute myeloid leukemia on induction chemotherapy
+Multiple hospital admissions for febrile neutropenia
+
+Patient presented on 02/08/2025 with fever (38.9°C), generalized weakness, and new-onset oral thrush. Complained of diffuse body aches and a non-productive cough for two days.
+
+DH
+Chemotherapy regimen: Cytarabine + Idarubicin (last cycle 10 days ago)
+Antifungal prophylaxis with Fluconazole (stopped 3 weeks ago)
+NKDA
+
+Parameters
+BP: 106/66; HR: 120; Temperature: 39.1°C; SPO2: 95% on RA
+Weight 70.0kg
+
+O/E
+Chest: Mildly reduced air entry at bases but no crackles
+Mouth: White patches on tongue and buccal mucosa consistent with thrush
+Skin: No obvious rashes or injection sites
+
+Investigations
+• CBC: Profound neutropenia (WCC 0.4 x 10^9/L)
+• CRP: 160 mg/L
+• Blood cultures on 02/08/2025: Grew Candida albicans on 03/08/2025
+• Sputum culture: No bacterial growth
+• CXR: Mild perihilar opacities, no focal consolidation
+
+Management
+Isolation in a protective environment
+Initiation of IV Caspofungin 70mg stat, then 50mg daily from 03/08/2025
+Broad-spectrum IV antibiotic coverage (Piperacillin-Tazobactam) pending any bacterial co-infection
+Monitor renal and liver function daily
+Repeat blood cultures in 48 hours
+
+Plan
+Continue antifungal therapy for at least 14 days, or until repeated negative blood cultures and clinical improvement
+Consult Infectious Disease for possible step-down to oral therapy if stable",Yes,Candida albicans,02/08/2025
+49,"Diagnosis
+Vancomycin-resistant Enterococcus (VRE) bacteremia
+Acute diverticulitis
+Chronic kidney disease (CKD) Stage 4
+
+Clinical Details
+Ms. Olivia Parker, a 66-year-old female
+K/C
+CKD stage 4
+Hypertension
+Diverticular disease
+
+Presented on 15/09/2025 with left lower quadrant abdominal pain, fever (38.6°C), and altered bowel habits for 3 days. She also reported nausea and decreased oral intake.
+
+DH
+Ramipril 5mg Daily
+Furosemide 20mg Daily
+No known drug allergies
+
+Parameters
+BP: 110/70; HR: 95; Temperature: 38.4°C; SPO2: 98% on RA
+Weight 62.0kg
+
+O/E
+Abdo: Tender in left lower quadrant, mild guarding, hyperactive bowel sounds
+CVS: Regular rhythm, normal S1/S2
+No peripheral edema
+
+Investigations
+• CBC: WCC 14 x 10^9/L
+• CRP: 100 mg/L
+• CT Abdomen/Pelvis: Findings consistent with acute diverticulitis in the sigmoid colon
+• Blood cultures on 15/09/2025: Grew Enterococcus faecium (VRE) on 16/09/2025
+• Renal function: eGFR 28 mL/min
+
+Management
+IV fluids to maintain hydration and perfusion
+Initiated IV Linezolid 600mg BD (adjusted dosing for CKD) on 16/09/2025 after VRE result
+Conservative management of diverticulitis (bowel rest, IV fluids, analgesia)
+Monitor renal function daily and linezolid levels if needed
+Repeat blood cultures planned in 48 hours
+
+Plan
+Continue IV Linezolid for at least 10 days
+Colorectal surgery consult if no clinical improvement or if complications develop (abscess, perforation)",Yes,Vancomycin-resistant Enterococcus faecium (VRE),15/09/2025
+50,"Diagnosis
+Influenza A pneumonia
+Secondary bacterial pneumonia not confirmed
+No bacteremia
+
+Clinical Details
+Mr. Julian Patel, a 34-year-old male
+K/C
+Mild asthma
+No significant past hospital admissions
+
+Presented on 01/01/2025 with high-grade fever (39.2°C), chills, myalgia, and a productive cough for 2 days. He works as a teacher and noted several students had recent flu-like illnesses.
+
+DH
+Salbutamol inhaler PRN
+No known drug allergies
+
+Parameters
+BP: 118/76; HR: 110; Temperature: 39.0°C; SPO2: 94% on RA, improving to 97% on 3L O?
+Weight 75.0kg
+
+O/E
+Chest: Coarse crackles in the right lower zone, mild wheezing
+CVS: Tachycardia, no murmurs
+No skin rash
+
+Investigations
+• CBC: WCC 10 x 10^9/L with mild lymphopenia
+• CRP: 90 mg/L
+• Nasopharyngeal swab: Positive for Influenza A by PCR on 02/01/2025
+• Blood cultures on 01/01/2025: No growth at 48 hours, final negative
+• CXR: Infiltrate in RLL consistent with pneumonia
+
+Management
+Commenced Oseltamivir 75mg BD for 5 days
+Supportive treatment: Oxygen therapy, IV fluids for hydration
+No antibiotics started as there is no confirmed bacterial superinfection
+Monitor chest findings and vitals; consider antibiotic therapy if signs of bacterial pneumonia emerge
+
+Outcome
+Patient responded well to antiviral therapy, with defervescence by day 3
+Discharged on day 5 with advice for rest and follow-up in Respiratory Clinic if any relapse",No,None,
+51,"Diagnosis
+Hepatic abscess
+No bacteremia
+Cirrhosis (alcohol-related)
+
+Clinical Details
+Mr. Marco Rossi, a 58-year-old male
+K/C
+Alcoholic cirrhosis
+Portal hypertension
+Esophageal varices (banded in 2023)
+
+He presented on 05/10/2025 with right upper quadrant abdominal pain, low-grade fever for one week, and poor oral intake. Complained of weight loss over the past month and occasional night sweats.
+
+DH
+Propranolol 20mg BD (for variceal prophylaxis)
+Lactulose 10ml TDS
+NKDA
+
+Parameters
+BP: 110/68; HR: 92; Temperature: 37.8°C; SPO2: 97% on RA
+Weight 68.0kg
+
+O/E
+Abdo: Tender hepatomegaly in the RUQ, no rebound tenderness
+JVP: Normal
+Mild jaundice (scleral icterus noted)
+
+Investigations
+• CBC: WCC 13 x 10^9/L
+• CRP: 70 mg/L
+• LFTs: Elevated bilirubin (3.2 mg/dL), mildly elevated ALT/AST
+• Ultrasound Abdomen: Large solitary liver lesion in right lobe suspicious of abscess
+• Blood cultures on 05/10/2025: No growth
+• Aspiration/Drain fluid (06/10/2025): Positive for Klebsiella pneumoniae; sensitivities pending
+
+Management
+Percutaneous drainage of hepatic abscess on 06/10/2025
+Commenced IV Ceftriaxone 2g daily (will reassess antibiotic once culture sensitivities return)
+Assess for improvement in fever and WCC
+Monitor LFTs and renal function
+
+Plan
+Continue IV antibiotics for 2 weeks or until resolution on imaging
+GI team to follow for ongoing cirrhosis management",No,None,
+52,"Diagnosis
+Acute leukemoid reaction secondary to pneumonia
+Streptococcus pneumoniae bacteremia
+Type 2 diabetes mellitus
+
+Clinical Details
+Ms. Diana Flores, a 60-year-old female
+K/C
+Type 2 Diabetes Mellitus
+Obesity (BMI 32)
+
+Presented on 11/12/2025 with high-grade fever (39.4°C), productive cough with yellow sputum, and severe malaise for 4 days. Denied any recent sick contacts but reported poor glycemic control over the last few weeks.
+
+DH
+Metformin 1g BD
+Glimepiride 2mg Daily
+No known drug allergies
+
+Parameters
+BP: 125/80; HR: 122; Temperature: 39.2°C; SPO2: 93% on 2L O?
+Weight 82.0kg
+
+O/E
+Chest: Crepitations over left mid-lung field
+CVS: Tachycardic but regular rate
+No peripheral edema
+
+Investigations
+• CBC: WCC 30 x 10^9/L (marked leukocytosis), mostly neutrophils
+• CRP: 210 mg/L
+• Blood cultures on 11/12/2025: Grew Streptococcus pneumoniae (sensitive to penicillin) on 12/12/2025
+• Sputum culture: Pending
+• CXR: Left lower lobe consolidation
+
+Management
+IV Benzylpenicillin 1.2g QDS commenced on 12/12/2025
+Optimized diabetic control with sliding scale insulin
+Monitor FBC, CRP, and blood glucose daily
+Consider stepping down to oral amoxicillin after clinical improvement and negative repeat culture
+
+Plan
+Continue IV antibiotics for minimum 5 days, then switch to oral therapy
+Advice on tight glycemic control and chest physiotherapy",Yes,Streptococcus pneumoniae,11/12/2025
+53,"Diagnosis
+Surgical site infection
+MSSA bacteremia
+Post-operative day 7 following total hip replacement
+
+Clinical Details
+Mr. Samuel Wright, a 65-year-old male
+K/C
+Osteoarthritis of the right hip
+Hypertension, controlled with medication
+Underwent elective right total hip arthroplasty on 10/09/2025.
+
+Patient returned to the orthopedic clinic on 17/09/2025 complaining of increased wound pain, redness, and purulent discharge from the operative site. He also reported low-grade fevers and malaise since post-op day 5.
+
+DH
+Amlodipine 5mg daily
+Paracetamol 1g QDS PRN
+NKDA
+
+Parameters
+BP: 128/74; HR: 102; Temperature: 37.9°C; SPO2: 98% on RA
+Weight: 84.0kg
+
+O/E
+
+Right hip surgical wound with erythema, warmth, and small amount of purulent discharge
+Cardiovascular exam: S1/S2 normal, mild tachycardia
+Chest clear
+Investigations
+
+CBC: WCC 14 x 10^9/L
+CRP: 95 mg/L
+Wound swab culture: MSSA on 17/09/2025
+Blood cultures (taken 17/09/2025): Grew MSSA on 18/09/2025, sensitive to flucloxacillin, resistant to penicillin G
+X-ray right hip: No obvious prosthetic loosening
+Management
+
+Wound irrigation and debridement performed on 17/09/2025
+IV Flucloxacillin 2g Q6H commenced on 18/09/2025
+Orthopedic team to review for any sign of deep hardware infection; if suspected, further imaging or repeat surgical intervention may be required
+Plan for repeat blood cultures in 48 hours, strict wound care, and ID consultation
+Discharge Plan
+
+Continue IV flucloxacillin for at least 2 weeks and reassess with ESR/CRP trends
+Outpatient antibiotic therapy may be considered via PICC line if stable",Yes,MSSA (Methicillin-Sensitive Staphylococcus aureus),17/09/2025
+54,"Diagnosis
+Febrile neutropenia
+Central line-associated bloodstream infection (CLABSI) – Candida albicans
+Acute myeloid leukemia (on chemotherapy)
+
+Clinical Details
+Ms. Hannah Smith, a 43-year-old female
+K/C
+Acute myeloid leukemia diagnosed 06/2025
+Ongoing chemotherapy (3rd cycle)
+Neutropenic for 7 days (WCC < 1.0)
+
+Patient was admitted on 02/10/2025 with fever of 38.5°C, chills, and general fatigue. She reported some redness at her Hickman line insertion site.
+
+DH
+Ciprofloxacin prophylaxis
+Antifungal prophylaxis (fluconazole)
+NKDA
+
+Parameters
+BP: 110/68; HR: 108; Temperature: 38.7°C; SPO2: 97% on RA
+Weight: 62.0kg
+
+O/E
+
+Central line insertion site: mild erythema, no obvious discharge
+Chest: Clear
+CVS: Tachycardic, no murmurs
+Investigations
+
+CBC: WCC 0.6 x 10^9/L (neutropenia), platelets 15 x 10^9/L
+CRP: 135 mg/L
+Blood cultures on 02/10/2025: Grew Candida albicans on 03/10/2025
+Hickman line tip culture on removal: Positive for Candida albicans
+LFTs: Mildly elevated ALP and GGT
+Management
+
+Immediate removal of Hickman central line on 03/10/2025
+Started on IV Caspofungin 70mg stat, then 50mg daily as per ID team recommendation
+Strict neutropenic precautions
+Plans to monitor repeat blood cultures every 48 hours to ensure clearance
+Outcome
+
+Patient to remain in high-dependency bed due to ongoing chemotherapy and neutropenia
+Consider new central line placement only after repeated negative cultures and clinical improvement",Yes,Candida albicans,02/10/2025
+55,"Diagnosis
+Cellulitis of the left lower limb
+No bacteremia
+Type 2 Diabetes Mellitus
+
+Clinical Details
+Mr. Noah Patel, a 58-year-old male
+K/C
+Type 2 DM on metformin
+Obesity (BMI 32)
+History of recurrent cellulitis
+
+Patient presented to the ED on 15/11/2025 with a 3-day history of left lower leg redness, swelling, and pain. Denied fever or chills initially, although mild temperature elevation was noted on arrival.
+
+DH
+Metformin 500mg TDS
+Atorvastatin 20mg nocte
+No known drug allergies
+
+Parameters
+BP: 128/85; HR: 88; Temperature: 37.8°C; SPO2: 98% on RA
+Weight: 102.0kg
+
+O/E
+
+Left lower leg: Erythematous, warm, tender area from ankle to mid-calf; no fluctuant collection
+Cardiac exam: NAD
+Chest: Clear
+Investigations
+
+CBC: WCC 11 x 10^9/L
+CRP: 80 mg/L
+Blood cultures on 15/11/2025: No growth at 48 hours, final negative
+Wound swab (superficial) grew Streptococcus pyogenes, sensitive to penicillin
+Management
+
+Started on IV Benzylpenicillin 1.2g Q6H on 16/11/2025
+Strict glycemic control to aid wound healing; insulin sliding scale if needed
+Leg elevation and compression therapy as tolerated
+Plan
+
+Discontinue IV therapy after 5 days if clinical improvement; switch to oral penicillin or amoxicillin
+Review in the diabetes foot clinic in 1 week to assess for any complications",No,None,
+56,"Diagnosis
+Hospital-acquired pneumonia (HAP)
+Carbapenem-resistant Klebsiella pneumoniae (CRKP) bacteremia
+
+Clinical Details
+Mr. Peter Rossi, a 70-year-old male
+K/C
+Chronic obstructive pulmonary disease (COPD)
+History of prolonged hospitalization last month for respiratory failure requiring mechanical ventilation
+
+Re-admitted on 25/12/2025 with increasing shortness of breath, productive cough with yellow sputum, and fever (38.4°C).
+
+DH
+Salbutamol inhaler PRN
+Tiotropium inhaler OD
+NKDA
+
+Parameters
+BP: 115/70; HR: 104; Temperature: 38.6°C; SPO2: 94% on 3L nasal cannula
+Weight: 78.0kg
+
+O/E
+
+Chest: Bilateral coarse crackles, more pronounced in right lower zone
+CVS: Tachycardic, no audible murmurs
+Abdo: Soft, non-distended
+Investigations
+
+CBC: WCC 18 x 10^9/L
+CRP: 210 mg/L
+Blood cultures on 25/12/2025: Grew Carbapenem-resistant Klebsiella pneumoniae on 26/12/2025
+Sputum culture: Same organism isolated, CRKP
+CXR: New right lower lobe consolidation
+Management
+
+Started on IV Colistin plus Tigecycline regimen on 26/12/2025 following ID consult
+Strict respiratory isolation precautions (contact precautions)
+Monitor renal function daily due to colistin nephrotoxicity risk
+Plan
+
+Continue combination therapy for at least 14 days or until clinical resolution
+Repeat blood cultures every 2-3 days to confirm clearance of bacteremia",Yes,Carbapenem-resistant Klebsiella pneumoniae,25/12/2025
+57,"Diagnosis
+Acute cholecystitis
+No associated bacteremia
+Gallstones
+
+Clinical Details
+Ms. Sofia Alvarez, a 49-year-old female
+K/C
+Obesity (BMI 34)
+Previous episodes of biliary colic
+
+Presented on 02/01/2026 with severe right upper quadrant (RUQ) abdominal pain, radiating to the right scapula, nausea, and low-grade fever (37.9°C). She noticed her urine became darker and stools lighter over the past few days.
+
+DH
+Oral contraceptives
+No known drug allergies
+
+Parameters
+BP: 130/76; HR: 94; Temperature: 37.9°C; SPO2: 97% on RA
+Weight: 86.0kg
+
+O/E
+
+RUQ tenderness with positive Murphy’s sign
+CVS: NAD
+Chest: Clear
+Investigations
+
+CBC: WCC 13 x 10^9/L
+CRP: 60 mg/L
+LFTs: Elevated bilirubin (2.1 mg/dL), mild ALP elevation
+Blood cultures on 02/01/2026: No growth at 48 hours, final negative
+RUQ ultrasound: Thickened gallbladder wall with gallstones, pericholecystic fluid
+Management
+
+IV Cefuroxime 750mg TDS commenced empirically for cholecystitis
+IV fluids, analgesia (IV morphine 2mg PRN)
+Surgical consultation for potential laparoscopic cholecystectomy
+Plan
+
+If stable, laparoscopic cholecystectomy planned within the same admission
+Continue IV antibiotics until surgery; switch to oral if no complications arise",No,None,
+58,"Diagnosis
+Vancomycin-resistant Enterococcus faecium (VRE) infective endocarditis
+Congestive heart failure (CHF) exacerbation
+
+Clinical Details
+Mr. Frederick Moore, a 72-year-old male
+K/C
+Known valvular heart disease (bicuspid aortic valve)
+History of mild CHF (EF 40%)
+Previous hospital admission 2 months ago for decompensated CHF
+
+Patient was admitted on 10/01/2026 with low-grade fevers, lethargy, and increasing dyspnea over the past week. He also complained of new-onset palpitations.
+
+DH
+Furosemide 40mg BD
+Carvedilol 3.125mg BD
+Warfarin 5mg daily (target INR 2-3)
+NKDA
+
+Parameters
+BP: 110/70; HR: 108 (irregular); Temperature: 37.8°C; SPO2: 95% on RA
+Weight: 80.0kg
+
+O/E
+
+CVS: Soft systolic murmur best heard at right 2nd ICS, irregularly irregular pulse
+Chest: Bibasal crackles, mild wheezing
+Extremities: Mild pedal edema
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 90 mg/L
+Blood cultures on 10/01/2026: Grew Enterococcus faecium resistant to vancomycin (final ID on 12/01/2026)
+TTE (11/01/2026) suggestive of vegetations on aortic valve
+Renal function: Mildly impaired (Creatinine 1.6 mg/dL)
+Management
+
+Infectious Diseases consulted; linezolid therapy initiated on 12/01/2026
+Close monitoring of cardiac status; daily weights and fluid balance
+Warfarin therapy continued, monitor INR carefully
+Repeat blood cultures every 48 hours to assess clearance
+Plan
+
+Consider urgent cardiothoracic surgery review if valve destruction suspected
+Optimize CHF medications once infection is stabilized
+Duration of IV therapy expected to be at least 4-6 weeks",Yes,Vancomycin-resistant Enterococcus faecium,10/01/2026
+59,"Diagnosis
+Upper gastrointestinal bleed
+Non-variceal bleeding (likely peptic ulcer)
+No evidence of infection
+
+Clinical Details
+Ms. Caroline Higgins, a 58-year-old female
+K/C
+Chronic gastritis
+Migraine headaches
+Presented on 18/01/2026 with hematemesis (coffee-ground vomitus) and dizziness. She denied fever, chills, or abdominal pain aside from mild epigastric discomfort.
+
+DH
+Omeprazole 20mg daily
+Sumatriptan 50mg PRN for migraines
+No known drug allergies
+
+Parameters
+BP: 100/65; HR: 110; Temperature: 36.6°C; SPO2: 97% on RA
+Weight: 68.0kg
+
+O/E
+
+Mild epigastric tenderness on palpation
+Orthostatic hypotension noted on standing
+Cardiovascular exam: Tachycardic, normal S1 and S2
+Investigations
+
+CBC: Hb 8.9 g/dL (down from baseline 12.0 g/dL), WCC 7 x 10^9/L
+CRP: 5 mg/L (within normal range)
+Blood cultures on 18/01/2026: No growth at 48 hours, final negative
+Upper GI endoscopy on 19/01/2026: Active bleeding from a gastric ulcer
+Management
+
+IV proton pump inhibitor (PPI) infusion (Omeprazole 80mg bolus then 8mg/hr)
+Two units of packed red blood cells transfused
+Endoscopic hemostasis (adrenaline injection + cautery)
+No antibiotics initiated as there is no suspicion of infection
+Outcome
+
+Bleeding controlled; repeated endoscopy if re-bleed suspected
+Monitor hemoglobin daily
+Plan to discharge once stable and refer to Gastroenterology for follow-up",No,None,
+60,"Diagnosis
+Acute meningoencephalitis
+Listeria monocytogenes bacteremia
+
+Clinical Details
+Mr. Gregory Tan, a 64-year-old male
+K/C
+Type 2 Diabetes Mellitus (on insulin)
+Past smoker (quit 5 years ago)
+Presented on 05/02/2026 with fever (39.1°C), confusion, and neck stiffness. On admission, the patient was disoriented to time and place.
+
+DH
+Humulin 70/30 16 units BD
+Losartan 50mg daily
+No known drug allergies
+
+Parameters
+BP: 120/76; HR: 96; Temperature: 39.2°C; SPO2: 96% on RA
+Weight: 74.0kg
+
+O/E
+
+CNS: Positive Kernig’s sign and Brudzinski’s sign, GCS 13/15 (E4 V4 M5)
+CVS: Slightly tachycardic, S1/S2 normal
+Chest: Clear
+Investigations
+
+CBC: WCC 15 x 10^9/L, neutrophil predominance
+CRP: 140 mg/L
+Lumbar puncture on 05/02/2026: Elevated protein, low glucose, Gram-positive rods seen
+Blood cultures on 05/02/2026: Grew Listeria monocytogenes on 06/02/2026, sensitive to ampicillin
+MRI brain: Mild meningeal enhancement, no focal lesions
+Management
+
+IV Ampicillin 2g Q4H initiated on 06/02/2026
+Add IV Gentamicin for synergy (as per ID team)
+Neurological exams repeated every 4 hours
+Monitor renal function closely (due to gentamicin)
+Plan
+
+Minimum 3 weeks of IV antibiotics
+Supportive care with fluids, electrolytes, and antipyretics
+Consider stepping down to high-dependency unit once stable",Yes,Listeria monocytogenes,05/02/2026
+61,"Diagnosis
+Acute gastroenteritis
+Typhoid fever due to Salmonella Typhi
+Bacteremia
+
+Clinical Details
+Ms. Aisha Rahman, a 33-year-old female
+K/C
+No significant comorbidities
+Returned from a trip abroad (South Asia) 1 week ago. Presented on 12/03/2026 with high fever (39.5°C), abdominal pain, and headache. Noted episodes of watery diarrhea initially, now more constipation.
+
+DH
+No regular medications
+NKDA
+
+Parameters
+BP: 112/70; HR: 104; Temperature: 39.6°C; SPO2: 98% on RA
+Weight: 58.0kg
+
+O/E
+
+Abdo: Mild right iliac fossa tenderness, no guarding or rebound
+CVS: Tachycardia
+Rash: Faint “rose spots” on trunk
+Investigations
+
+CBC: WCC 9 x 10^9/L, mild anemia (Hb 10.8 g/dL)
+CRP: 85 mg/L
+Blood cultures on 12/03/2026: Grew Salmonella Typhi on 14/03/2026, sensitive to ceftriaxone
+Widal test: Positive (high O and H titers)
+Management
+
+IV Ceftriaxone 2g once daily started on 14/03/2026
+Maintain adequate hydration and electrolyte balance
+Monitor for complications such as GI hemorrhage or perforation
+Plan
+
+Continue IV ceftriaxone for at least 10 days or until defervescence and clinical improvement
+Advise infection control measures (hand hygiene, isolation if needed)",Yes,Salmonella Typhi,12/03/2026
+62,"Diagnosis
+Transient ischemic attack (TIA)
+No active infection
+
+Clinical Details
+Mrs. Beatrice Holmes, a 70-year-old female
+K/C
+Atrial fibrillation on apixaban
+Hypertension
+Hyperlipidemia
+
+Presented to the ED on 20/04/2026 with sudden onset left-sided weakness and slurred speech that resolved within 30 minutes. Denies fever, chills, or recent infectious symptoms.
+
+DH
+Apixaban 5mg BD
+Amlodipine 10mg daily
+Atorvastatin 40mg nocte
+No known drug allergies
+
+Parameters
+BP: 142/80; HR: 78 (irregularly irregular); Temperature: 36.7°C; SPO2: 98% on RA
+Weight: 72.0kg
+
+O/E
+
+Neuro: Currently no focal deficits, NIHSS 0 at time of examination
+CVS: Irregularly irregular rhythm consistent with AF, no murmurs
+Chest: Clear
+Investigations
+
+CBC: Normal WCC
+CRP: <5 mg/L
+CT brain: No infarction or hemorrhage
+Blood cultures on 20/04/2026: No growth at 48 hours, final negative
+Management
+
+Anticoagulation continued (apixaban)
+Carotid Doppler ultrasound to assess for stenosis
+No antibiotics needed as there is no evidence of infection
+Plan
+
+Neurology referral for further TIA workup
+Optimize blood pressure control and follow up in TIA clinic",No,None,
+63,"Diagnosis
+Prosthetic joint infection (right knee)
+Staphylococcus epidermidis bacteremia
+
+Clinical Details
+Mr. Mark Henderson, a 70-year-old male
+K/C
+Osteoarthritis
+Type 2 Diabetes Mellitus (poorly controlled)
+
+Patient underwent total knee replacement on 03/07/2025. Presented on 15/07/2025 with increasing pain, swelling, and erythema over the surgical site. Low-grade fever for 2 days.
+
+DH
+Metformin 500mg BD
+Aspirin 75mg Daily
+NKDA
+
+Parameters
+BP: 130/78; HR: 94; Temperature: 37.8°C; SPO2: 98% on RA
+Weight: 85.0kg
+
+O/E
+
+Right knee: Swollen, tender, slight warmth, no significant purulent discharge noted externally
+CVS: NAD
+Chest: Clear on auscultation
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 80 mg/L
+Blood cultures (taken on 15/07/2025): Grew Staphylococcus epidermidis (coagulase-negative) on 16/07/2025; sensitive to Vancomycin, resistant to Penicillin G
+Knee aspirate: Pending full culture results, Gram-positive cocci in clusters on Gram stain
+X-ray right knee: No obvious loosening, but slight peri-prosthetic lucency
+Management
+
+Orthopedic team performed arthroscopic lavage on 16/07/2025
+Started IV Vancomycin 1g BD on 16/07/2025 (dose adjusted per trough levels)
+Plan for repeat blood cultures in 48 hours
+Close monitoring of inflammatory markers and knee joint status
+Outcome
+
+Infectious Diseases team recommended a minimum 4-6 weeks of IV therapy, possibly followed by oral rifampicin combination depending on sensitivity patterns.",Yes,Staphylococcus epidermidis,15/07/2025
+64,"Diagnosis
+Complicated urinary tract infection
+Enterococcus faecium bacteremia
+
+Clinical Details
+Ms. Jane Wolff, a 59-year-old female
+K/C
+Chronic kidney disease (CKD) Stage 3
+History of multiple UTIs requiring hospital admission
+
+Presented on 01/05/2025 with flank pain, dysuria, and fever (39.1°C) for 2 days. She reported increased urinary frequency and foul-smelling urine.
+
+DH
+Ramipril 5mg Daily
+Calcium acetate 667mg TDS
+NKDA
+
+Parameters
+BP: 122/75; HR: 110; Temperature: 38.9°C; SPO2: 96% on RA
+Weight: 63.0kg
+
+O/E
+
+CVA tenderness over the left side
+CVS: Tachycardic, normal S1 and S2
+Abdo: Mild suprapubic discomfort
+Investigations
+
+CBC: WCC 18 x 10^9/L
+CRP: 150 mg/L
+Blood cultures on 01/05/2025: Grew Enterococcus faecium on 02/05/2025; resistant to ampicillin, sensitive to vancomycin (VRE not detected)
+Urine culture: Same organism with identical sensitivity profile
+Renal ultrasound: Mild left hydronephrosis, likely due to chronic scarring
+Management
+
+IV Vancomycin 1g BD commenced on 02/05/2025
+Renal function monitored daily; watch for nephrotoxicity
+Urology consult regarding possible stent placement if obstruction worsens
+Planned repeat cultures at 48 hours to ensure clearance
+Plan
+
+Continue IV therapy for at least 10-14 days, depending on clinical and microbiological response
+Optimize CKD management during admission",Yes,Enterococcus faecium,01/05/2025
+65,"Diagnosis
+PICC line infection
+Serratia marcescens bacteremia
+Acute myeloid leukemia (maintenance chemotherapy)
+
+Clinical Details
+Mr. Derek Lee, a 54-year-old male
+K/C
+AML diagnosed 12/2024, in remission
+Recently started maintenance chemo 2 weeks ago
+
+Patient presented on 05/08/2025 with fever (38.4°C), chills, and localized pain at his peripherally inserted central catheter (PICC) site. He noted mild erythema around the catheter insertion.
+
+DH
+Maintenance chemotherapy protocol (Azacitidine)
+Ondansetron 4mg PRN
+NKDA
+
+Parameters
+BP: 110/66; HR: 104; Temperature: 38.7°C; SPO2: 97% on RA
+Weight: 70.5kg
+
+O/E
+
+PICC site: Mild erythema, tenderness, no purulent discharge
+CVS: Tachycardic
+Chest: Clear
+Investigations
+
+CBC: WCC 2.8 x 10^9/L (mild neutropenia), platelets 40 x 10^9/L
+CRP: 110 mg/L
+Blood cultures (drawn from PICC line and peripheral) on 05/08/2025: Grew Serratia marcescens on 06/08/2025
+Catheter tip culture after removal: Positive for Serratia marcescens
+Renal function: Normal
+Management
+
+Immediate PICC line removal on 06/08/2025
+Initiation of IV Cefepime 2g TDS pending sensitivities
+Infectious Diseases consult to guide therapy duration
+Strict aseptic technique emphasized for any new line placement
+Plan
+
+Repeat blood cultures every 48 hours until negative
+Potential transition to oral therapy if strain is sensitive and patient stabilizes",Yes,Serratia marcescens,05/08/2025
+66,"Diagnosis
+Acute exacerbation of COPD
+Community-acquired pneumonia (Moraxella catarrhalis)
+No bacteremia
+
+Clinical Details
+Mr. Kyle Brennan, a 68-year-old male
+K/C
+COPD (GOLD Stage III)
+Long-term oxygen therapy at home
+
+Presented on 12/09/2025 with worsening shortness of breath, increased sputum production, and mild fever for 3 days. He reported purulent sputum and some wheezing.
+
+DH
+Tiotropium inhaler OD
+Salbutamol inhaler PRN
+NKDA
+
+Parameters
+BP: 126/70; HR: 98; Temperature: 37.8°C; SPO2: 88% on RA (improved to 92% on 2L nasal O?)
+Weight: 76.0kg
+
+O/E
+
+Chest: Bilateral expiratory wheezes, scattered crackles at right base
+CVS: Tachycardic, normal S1/S2
+Abdo: Soft, non-distended
+Investigations
+
+CBC: WCC 11 x 10^9/L
+CRP: 50 mg/L
+Sputum culture: Grew Moraxella catarrhalis on 13/09/2025, sensitive to amoxicillin-clavulanate
+Blood cultures (12/09/2025): No growth at 48 hours, final negative
+CXR: Right lower zone infiltrates consistent with pneumonia
+Management
+
+IV Amoxicillin-Clavulanate 1.2g TDS started on 13/09/2025
+Nebulized bronchodilators Q4H
+Supplemental oxygen to maintain SpO? ? 90%
+Chest physiotherapy to aid sputum clearance
+Plan
+
+Switch to oral amoxicillin-clavulanate after clinical improvement
+Pulmonary rehab referral post-discharge for COPD optimization",No,None,
+67,"Diagnosis
+Subacute infective endocarditis
+Corynebacterium spp. bacteremia
+Mitral valve regurgitation
+
+Clinical Details
+Ms. Rebecca Goodman, a 46-year-old female
+K/C
+Rheumatic heart disease (mitral valve involvement)
+Previous mechanical valve replacement in 2019
+
+Presented on 20/10/2025 with low-grade fevers, malaise, and weight loss over 2 weeks. Denied any new rashes or focal infections.
+
+DH
+Warfarin 5mg Daily (target INR 2-3)
+Furosemide 40mg OD
+NKDA
+
+Parameters
+BP: 118/70; HR: 96; Temperature: 37.7°C; SPO2: 98% on RA
+Weight: 68.0kg
+
+O/E
+
+Cardiac: Mid-diastolic murmur best heard at apex, mechanical heart sounds audible; no new murmurs but moderate regurgitation noted on old echo
+Chest: Clear
+Skin: No Osler’s nodes or Janeway lesions, though slight splinter hemorrhages on nails
+Investigations
+
+CBC: WCC 9 x 10^9/L
+CRP: 40 mg/L
+Blood cultures on 20/10/2025: Grew Corynebacterium spp. on 21/10/2025 (repeat sets also positive, indicating likely true bacteremia rather than contaminant)
+TTE (21/10/2025): Vegetation on mitral valve prosthesis ~5mm, mild to moderate regurgitation
+INR: 2.4
+Management
+
+Admitted under Cardiology and Infectious Diseases teams
+IV Vancomycin initiated on 22/10/2025 based on preliminary Gram-positive rod data (pending full sensitivities)
+Monitor valve function closely; consider surgical intervention if valve function worsens
+Repeat blood cultures every 48 hours
+Plan
+
+Prolonged IV antibiotic course (?6 weeks) advised if sensitivities confirm need for targeted therapy against Corynebacterium
+Possibility of valve replacement if endocarditis leads to structural compromise",Yes,Corynebacterium spp.,20/10/2025
+68,"Diagnosis
+Community-Acquired Pneumonia (CAP)
+Streptococcus pneumoniae bacteremia
+Respiratory failure (type 1)
+
+Clinical Details
+Mr. Daniel Li, a 62-year-old male
+K/C
+Hypertension, on ACE inhibitors
+No significant past hospitalizations
+
+Patient presented to the ED on 05/02/2026 with a 5-day history of productive cough, high fever (39.2°C), and increasing shortness of breath.
+
+DH
+Lisinopril 10mg Daily
+No known drug allergies
+
+Parameters
+BP: 120/70; HR: 110; Temperature: 39.0°C; SPO2: 91% on room air (improved to 95% on 3L O?)
+Weight: 74.0kg
+
+O/E
+
+Chest: Reduced air entry in left lower zone with bronchial breathing
+CVS: Tachycardic, normal S1/S2
+Abdo: Soft, non-tender
+Investigations
+
+CBC: WCC 15 x 10^9/L
+CRP: 180 mg/L
+Blood cultures on 05/02/2026: Grew Streptococcus pneumoniae on 06/02/2026 (sensitive to penicillin and ceftriaxone)
+Sputum culture: Same organism isolated
+CXR: Left lower lobe consolidation
+Management
+
+IV Ceftriaxone 2g OD initiated on 06/02/2026
+Supplemental oxygen to maintain SpO? ? 94%
+Monitor vitals and daily labs; consider switch to oral therapy when afebrile for 48 hours
+Physio consult for chest therapy
+Plan
+
+7-10 days of antibiotic therapy total
+Discharge once clinically stable and saturations remain >92% on room air.",Yes,Streptococcus pneumoniae,05/02/2026
+69,"Diagnosis
+Complicated Urinary Tract Infection (UTI)
+Klebsiella pneumoniae complex
+No bacteremia
+
+Clinical Details
+Ms. Marcia Gomez, a 47-year-old female
+K/C
+Obesity (BMI 33)
+Previous episodes of UTI requiring antibiotic treatment
+
+Presented on 19/03/2026 with dysuria, flank pain, and fever of 38.1°C for 2 days. Noted foul-smelling urine and mild hematuria. Denied any nausea or vomiting.
+
+DH
+Oral contraceptive pill
+No known drug allergies
+
+Parameters
+BP: 116/72; HR: 92; Temperature: 38.0°C; SPO2: 98% on RA
+Weight: 90.0kg
+
+O/E
+
+CVA tenderness over the right flank
+Chest: Clear
+CVS: Normal S1/S2
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 65 mg/L
+Blood cultures (19/03/2026): No growth at 48 hours, final negative
+Urinalysis: Leukocyte +++, Nitrite +ve, RBC +
+Urine culture: Grew Klebsiella pneumoniae complex, sensitive to ciprofloxacin, resistant to amoxicillin
+Management
+
+IV Ciprofloxacin 400mg BD started on 20/03/2026 for complicated UTI
+IV fluids for hydration
+Analgesia (Paracetamol 1g QDS)
+Plan
+
+Switch to oral ciprofloxacin after 3 days if clinical improvement noted
+Total duration: 10-14 days, depending on resolution of symptoms
+Follow-up in 2 weeks with repeat urine culture.",No,None,
+70,"Diagnosis
+Infected diabetic foot ulcer
+Pseudomonas aeruginosa bacteremia
+Peripheral vascular disease
+
+Clinical Details
+Mr. Ahmed Karim, a 56-year-old male
+K/C
+Type 2 Diabetes Mellitus, poorly controlled
+Peripheral vascular disease (PVD)
+Diabetic neuropathy
+
+Presented on 01/04/2026 with a malodorous left foot ulcer extending to subcutaneous tissue, surrounding erythema, and purulent discharge. He also has had intermittent fever and chills for 2 days.
+
+DH
+Metformin 500mg TDS
+Clopidogrel 75mg Daily
+No known drug allergies
+
+Parameters
+BP: 118/76; HR: 105; Temperature: 38.5°C; SPO2: 97% on RA
+Weight: 80.0kg
+
+O/E
+
+Left foot: Large ulcer on plantar surface with necrotic edges, foul-smelling discharge
+Absent pedal pulses
+CVS: Tachycardic, normal heart sounds
+Chest: Clear
+Investigations
+
+CBC: WCC 16 x 10^9/L
+CRP: 200 mg/L
+Blood cultures on 01/04/2026: Grew Pseudomonas aeruginosa on 02/04/2026, sensitive to piperacillin-tazobactam, resistant to ampicillin
+Wound swab: Same organism isolated
+Doppler ultrasound: Reduced blood flow in left popliteal artery
+Management
+
+Debridement of necrotic tissue in the operating theatre on 02/04/2026
+IV Piperacillin-Tazobactam 4.5g TDS commenced
+Vascular surgery consult for possible revascularization procedure
+Strict glycemic control with insulin sliding scale
+Plan
+
+Repeat blood cultures every 48 hours to ensure clearance
+Prolonged antibiotic course (2-3 weeks) due to deep tissue involvement
+Consider amputation if no improvement or if ischemia worsens.",Yes,Pseudomonas aeruginosa,01/04/2026
+71,"Diagnosis
+Intra-abdominal abscess
+Bacteroides fragilis bacteremia
+Post-cholecystectomy complication
+
+Clinical Details
+Ms. Olivia Sterling, a 58-year-old female
+K/C
+Chronic cholelithiasis treated with laparoscopic cholecystectomy 2 weeks ago
+Non-alcoholic fatty liver disease (NAFLD)
+
+Presented on 10/05/2026 with persistent right upper quadrant pain, fever (38.3°C), and malaise since hospital discharge. She reported loss of appetite and mild nausea.
+
+DH
+Multivitamins OTC
+No known drug allergies
+
+Parameters
+BP: 110/68; HR: 100; Temperature: 38.4°C; SPO2: 98% on RA
+Weight: 72.0kg
+
+O/E
+
+Abdo: RUQ tenderness, mild guarding, no rebound
+CVS: Mild tachycardia, normal heart sounds
+Chest: Clear
+Investigations
+
+CBC: WCC 14 x 10^9/L
+CRP: 120 mg/L
+Blood cultures (10/05/2026): Grew Bacteroides fragilis on 11/05/2026
+Abdominal ultrasound: Localized fluid collection near the gallbladder fossa, suspicious for abscess
+LFTs: Mildly elevated ALP and GGT
+Management
+
+Image-guided percutaneous drainage of the abscess on 11/05/2026
+IV Metronidazole 500mg TDS plus IV Ceftriaxone 2g OD started on 11/05/2026
+Monitor inflammatory markers and temperature chart daily
+Plan
+
+Continue drainage until minimal output
+Total antibiotic course: ~2-3 weeks, depending on resolution
+Surgical team follow-up for potential repeat imaging in 1 week.",Yes,Bacteroides fragilis,10/05/2026
+72,"Diagnosis
+Line-related infection (Tunnelled catheter)
+Staphylococcus haemolyticus bacteremia
+End-stage renal disease (ESRD) on hemodialysis
+
+Clinical Details
+Mr. Harold Jackson, a 66-year-old male
+K/C
+ESRD requiring thrice-weekly hemodialysis via a tunnelled cuffed catheter
+Hypertension, well-controlled
+
+Presented on 12/06/2026 with fever (38.6°C), chills, and localized tenderness around his dialysis catheter exit site.
+
+DH
+Amlodipine 5mg Daily
+Sevelamer 800mg TDS
+No known drug allergies
+
+Parameters
+BP: 140/82; HR: 98; Temperature: 38.5°C; SPO2: 97% on RA
+Weight: 74.0kg
+
+O/E
+
+Catheter exit site: Mild erythema, tenderness, no obvious purulent discharge
+CVS: Tachycardic, no murmurs
+Chest: Clear
+Investigations
+
+CBC: WCC 13 x 10^9/L
+CRP: 90 mg/L
+Blood cultures on 12/06/2026: Grew Staphylococcus haemolyticus on 13/06/2026, sensitive to Vancomycin, resistant to Penicillin
+Catheter tip culture (after removal on 13/06/2026): Same organism
+Management
+
+Tunnelled catheter removed on 13/06/2026 due to infection
+IV Vancomycin 1g BD started (doses adjusted to trough levels and dialysis schedule)
+Temporary dialysis catheter placed on opposite side
+Plan
+
+ID team recommends a minimum of 2 weeks of IV Vancomycin for CoNS (Staphylococcus haemolyticus)
+Monitor ESRD parameters and ensure dialysis adequacy during antibiotic course
+Consider new permanent access only after confirmed negative blood cultures.",Yes,Staphylococcus haemolyticus,12/06/2026
+73,"Diagnosis
+Acute bacterial meningitis
+Neisseria meningitidis bacteremia
+
+Clinical Details
+Ms. Emily Vasquez, a 23-year-old female
+K/C
+No significant past medical history
+
+Presented to the ED on 02/06/2025 with a severe headache, photophobia, neck stiffness, and fever (39.2°C) for the past 24 hours. Family reported she was confused and lethargic this morning.
+
+DH
+NKDA
+No regular medications
+
+Parameters
+BP: 110/68; HR: 112; Temperature: 39.0°C; SPO2: 96% on RA
+Weight: 60.0kg
+
+O/E
+
+Neuro: Positive Kernig’s and Brudzinski’s signs, mild confusion, GCS 13/15
+Skin: Non-blanching petechial rash on lower limbs
+CVS: Tachycardic, no murmurs
+Investigations
+
+CBC: WCC 18 x 10^9/L (neutrophil predominance)
+CRP: 165 mg/L
+Lumbar puncture (02/06/2025): CSF with high protein, low glucose, Gram-negative diplococci seen
+Blood cultures on 02/06/2025: Grew Neisseria meningitidis on 03/06/2025
+CT brain: No focal lesions or significant edema
+Management
+
+Empirical IV Ceftriaxone 2g BD started immediately (02/06/2025)
+IV Dexamethasone 10mg Q6H for first 4 days to reduce neurological complications
+Isolation precautions and prophylaxis for close contacts (e.g., Rifampicin)
+Neurology consult for ongoing monitoring
+Outcome
+
+Continue IV antibiotics for at least 7 days
+Monitor for potential complications (seizures, increased intracranial pressure)",Yes,Neisseria meningitidis,02/06/2025
+74,"Diagnosis
+Peritonitis
+No bacteremia
+End-stage renal disease (ESRD) on peritoneal dialysis (PD)
+
+Clinical Details
+Mr. Jonathan Price, a 65-year-old male
+K/C
+ESRD on continuous ambulatory peritoneal dialysis (CAPD)
+Hypertension
+
+Presented on 10/08/2025 with severe abdominal pain, cloudy peritoneal effluent, and low-grade fever (37.8°C). He reported feeling generally unwell and noted that his dialysate had been increasingly hazy for the past two exchanges.
+
+DH
+Amlodipine 5mg daily
+Sevelamer 800mg TDS
+NKDA
+
+Parameters
+BP: 142/80; HR: 100; Temperature: 37.7°C; SPO2: 98% on RA
+Weight: 72.0kg
+
+O/E
+
+Abdo: Diffuse tenderness, rebound tenderness in all quadrants
+Dialysis catheter site: No obvious external infection or discharge
+CVS: Tachycardic, no murmurs
+Investigations
+
+CAPD fluid analysis: WCC > 100 cells/µL (predominantly neutrophils)
+CAPD fluid culture: Grew Bacteroides fragilis on 11/08/2025
+Blood cultures (10/08/2025): No growth at 48 hours, final negative
+CBC: WCC 14 x 10^9/L
+Management
+
+Intraperitoneal Metronidazole plus Cefepime therapy started on 11/08/2025 per PD peritonitis protocol
+Strict aseptic technique reinforced
+Assess catheter function daily; consider catheter removal if no improvement
+Outcome
+
+No signs of systemic bacteremia
+Plan to continue intraperitoneal antibiotics for 2 weeks, with close monitoring of peritoneal fluid WCC",No,None,
+75,"Diagnosis
+Infected vascular access graft
+Staphylococcus haemolyticus bacteremia
+
+Clinical Details
+Ms. Aria Cooper, a 58-year-old female
+K/C
+End-stage renal disease (ESRD) on hemodialysis
+Peripheral vascular disease
+
+Presented on 14/09/2025 with tenderness and erythema over her left arm arteriovenous (AV) graft site, low-grade fever (38.1°C), and chills after dialysis sessions.
+
+DH
+Erythropoietin injections weekly
+Bisoprolol 2.5mg daily
+NKDA
+
+Parameters
+BP: 130/85; HR: 94; Temperature: 38.2°C; SPO2: 97% on RA
+Weight: 68.0kg
+
+O/E
+
+Left arm AV graft: Erythema, mild edema, tenderness on palpation; no obvious purulent discharge
+Cardiovascular: NAD, normal S1/S2
+Chest: Clear
+Investigations
+
+CBC: WCC 11 x 10^9/L
+CRP: 90 mg/L
+Blood cultures taken on 14/09/2025: Grew Staphylococcus haemolyticus (coagulase-negative) on 15/09/2025; sensitive to vancomycin, moderate susceptibility to daptomycin
+Dialysis line swab culture: Pending
+Duplex ultrasound of the AV graft: No major obstruction, slight wall thickening suggestive of local infection
+Management
+
+Initiated on IV Vancomycin 1g BD on 15/09/2025 (to be adjusted according to trough levels)
+Surgical review for possible graft exploration or partial graft excision if infection not controlled
+Daily hemodialysis continued via temporary catheter placed in the right subclavian vein
+Outcome
+
+Plan to repeat blood cultures every 48 hours
+Prolonged antibiotic course (?4 weeks) may be necessary given prosthetic material involvement",Yes,Staphylococcus haemolyticus,14/09/2025
+76,"Diagnosis
+Gastroenteritis
+Salmonella Typhimurium bacteremia
+
+Clinical Details
+Mr. Lionel Sanders, a 38-year-old male
+K/C
+No significant past medical history
+Recent history of consuming undercooked eggs in a homemade dessert
+
+Presented on 03/10/2025 with profuse watery diarrhea for 2 days, abdominal cramps, and fever (38.5°C). He also reported several episodes of vomiting.
+
+DH
+NKDA
+No regular medications
+
+Parameters
+BP: 114/72; HR: 106; Temperature: 38.4°C; SPO2: 98% on RA
+Weight: 76.5kg
+
+O/E
+
+Abdominal examination: Mild diffuse tenderness, hyperactive bowel sounds
+CVS: Tachycardic, normal S1/S2
+Skin: No rash
+Investigations
+
+CBC: WCC 13 x 10^9/L
+CRP: 65 mg/L
+Blood cultures on 03/10/2025: Grew Salmonella Typhimurium on 04/10/2025
+Stool culture: Salmonella Typhimurium (same serotype), sensitive to Ciprofloxacin
+Electrolytes: Mild hypokalemia due to diarrhea
+Management
+
+IV fluids to correct dehydration and electrolyte imbalances
+IV Ciprofloxacin 400mg BD started on 04/10/2025, plan to switch to oral if clinically improved
+Monitor stool output, ensure adequate fluid intake
+Public health notification due to salmonellosis
+Outcome
+
+Expect improvement within 48-72 hours with antibiotic therapy
+Plan to repeat blood cultures in 48 hours",Yes,Salmonella Typhimurium,03/10/2025
+77,"Diagnosis
+Sepsis in pregnancy
+Listeria monocytogenes bacteremia
+28 weeks’ gestation
+
+Clinical Details
+Ms. Ana Rodriguez, a 31-year-old female
+K/C
+G2P1
+No prior significant health issues
+
+Presented on 12/12/2025 with fever (38.9°C), headache, and mild back pain for 3 days. She also noted decreased fetal movement over the past 24 hours. Dietary history revealed recent consumption of soft, unpasteurized cheeses.
+
+DH
+Folic acid 5mg daily
+No known allergies
+
+Parameters
+BP: 118/74; HR: 102; Temperature: 38.8°C; SPO2: 97% on RA
+Weight: 70.0kg
+
+O/E
+
+Obstetric exam: Uterus size consistent with 28 weeks, fetal heart rate slightly reduced at 110 bpm
+CVS: Slight tachycardia, no murmurs
+Neuro: No neck stiffness, no focal deficits
+Investigations
+
+CBC: WCC 16 x 10^9/L
+CRP: 110 mg/L
+Blood cultures on 12/12/2025: Grew Listeria monocytogenes on 13/12/2025
+Ultrasound fetal monitoring: Fetal heart rate borderline bradycardic, urgent OB consult
+Renal & hepatic panels: Within normal limits
+Management
+
+IV Ampicillin 2g Q4H started on 13/12/2025
+Add IV Gentamicin synergy for severe Listeria infection
+Continuous fetal monitoring; consider obstetric intervention if fetal distress worsens
+Outcome
+
+High-risk obstetric follow-up required
+Prolonged IV antibiotic therapy (?14 days) recommended to protect both mother and fetus",Yes,Listeria monocytogenes,12/12/2025
+78,"Diagnosis
+Severe gastroenteritis
+Shigella spp. infection
+No bacteremia
+
+Clinical Details
+Mr. Benjamin Kyle, a 38-year-old male
+K/C
+No major comorbidities
+Recent travel to South Asia (returned 1 week ago)
+
+Presented on 15/08/2025 with profuse watery diarrhea, abdominal cramps, and fever (39.0°C) for 3 days. Complains of multiple episodes of loose stools daily, occasionally with mucus.
+
+DH
+No regular medications
+NKDA
+
+Parameters
+BP: 105/65; HR: 110; Temperature: 38.9°C; SPO2: 98% on RA
+Weight: 70.0kg
+
+O/E
+
+Abdo: Diffuse tenderness, hyperactive bowel sounds
+CVS: Tachycardic but otherwise normal
+Skin: Signs of dehydration (reduced turgor)
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 75 mg/L
+Stool culture (15/08/2025): Grew Shigella spp. on 16/08/2025
+Blood cultures (15/08/2025): No growth at 48 hours, final negative
+Electrolytes: Mild hyponatremia, consistent with volume depletion
+Management
+
+IV fluids (Normal Saline) to correct dehydration
+Started on oral ciprofloxacin 500mg BD on 16/08/2025 based on local sensitivity patterns
+Strict input-output monitoring, daily electrolytes
+Plan
+
+Discharge once diarrhea subsides, maintain hydration
+Travel advice and food/water precautions for future trips",No,None,
+79,"Diagnosis
+Acute meningitis
+Listeria monocytogenes bacteremia
+
+Clinical Details
+Ms. Catherine Harlow, a 27-year-old female
+K/C
+Currently 32 weeks pregnant, no other past medical history
+
+Presented on 07/09/2025 with headache, neck stiffness, photophobia, and fever (38.5°C). She also reported feeling generally unwell and having mild confusion at times.
+
+DH
+Pregnancy vitamins
+No known drug allergies
+
+Parameters
+BP: 110/70; HR: 105; Temperature: 38.7°C; SPO2: 98% on RA
+Weight: 65.0kg
+
+O/E
+
+Neuro: Positive neck stiffness, mild confusion (GCS 14/15)
+CVS: Tachycardic, no murmur
+Abdomen: Fundal height consistent with 32 weeks gestation, no tenderness
+Investigations
+
+CBC: WCC 13 x 10^9/L (neutrophil predominance)
+CRP: 130 mg/L
+Lumbar puncture (07/09/2025): CSF with elevated WBC (mainly mononuclear cells), low glucose
+Blood cultures (07/09/2025): Grew Listeria monocytogenes on 08/09/2025 (confirmed on 09/09/2025)
+CSF culture: Listeria monocytogenes
+Management
+
+Commenced IV Amoxicillin 2g Q4H plus IV Gentamicin synergy on 08/09/2025 for presumed Listeria meningitis
+Close maternal-fetal monitoring, daily temperature charts
+Consider alternative antibiotic if any signs of intolerance
+Plan
+
+Prolonged antibiotic course (?21 days) to ensure eradication of Listeria
+Obstetric team to monitor fetal well-being; possible early delivery if maternal or fetal condition worsens",Yes,Listeria monocytogenes,07/09/2025
+80,"Diagnosis
+Typhoid fever
+Salmonella Typhi bacteremia
+
+Clinical Details
+Mr. Rajan Singh, a 30-year-old male
+K/C
+No chronic illnesses
+Recently returned from a rural area with poor sanitation 2 weeks ago
+
+Presented on 02/10/2025 with high-grade fevers for 5 days, abdominal pain, and constipation. Denies vomiting. Complains of generalized body aches and fatigue.
+
+DH
+No prescription medications
+NKDA
+
+Parameters
+BP: 100/64; HR: 114; Temperature: 39.5°C; SPO2: 98% on RA
+Weight: 68.0kg
+
+O/E
+
+Abdo: Mild distention, tenderness in right iliac fossa, no rebound
+CVS: Tachycardia, normal S1 and S2
+Rose spots noted on the trunk
+Investigations
+
+CBC: WCC 4.5 x 10^9/L (relative bradycardia pattern clinically)
+CRP: 45 mg/L
+Blood cultures (02/10/2025): Grew Salmonella Typhi on 04/10/2025
+Widal test: Rising titers for O and H antigens
+LFTs: Mild elevation in AST/ALT
+Management
+
+Started on IV Ceftriaxone 2g OD upon suspicion of typhoid on 03/10/2025, continuing for 10-14 days
+Supportive care (IV fluids, paracetamol for fever)
+Monitor for complications (GI bleed, perforation)
+Plan
+
+Switch to oral fluoroquinolones if patient stabilizes and sensitivities permit
+Public health notification for possible outbreak surveillance",Yes,Salmonella Typhi,02/10/2025
+81,"Diagnosis
+Prolonged low-grade fever
+Coagulase-negative staphylococci (not specified) contamination suspected
+No confirmed bacteremia
+
+Clinical Details
+Ms. Julia Martins, a 48-year-old female
+K/C
+Rheumatoid arthritis on low-dose steroids
+Previous left knee replacement
+
+Presented on 18/11/2025 with a 2-week history of low-grade fevers. She denied localized pain or any clear infection source. She has routine outpatient labs monthly due to RA therapy.
+
+DH
+Prednisolone 5mg daily
+Methotrexate 10mg weekly
+NKDA
+
+Parameters
+BP: 120/75; HR: 84; Temperature: 37.6°C; SPO2: 97% on RA
+Weight: 62.0kg
+
+O/E
+
+Joints: Some swelling in MCP joints consistent with RA flare, but no overt warmth or redness
+Chest: Clear
+CVS: NAD
+Investigations
+
+CBC: WCC 8 x 10^9/L, mild anemia of chronic disease
+CRP: 30 mg/L (slightly elevated)
+First set of blood cultures (18/11/2025): Grew coagulase-negative staphylococci (CNS) on 19/11/2025
+Repeat blood cultures: No growth at 48 hours, final negative
+Imaging (CXR, abdominal ultrasound): No acute findings
+Management
+
+Infectious Diseases consulted; likely skin contamination in first culture
+No antibiotics initiated as no clinical or laboratory evidence of active infection
+Continue to monitor vitals and inflammatory markers
+Plan
+
+Observe for any change in symptoms
+Rheumatology follow-up to review RA management",No,None,
+82,"Diagnosis
+Burn wound infection
+Pseudomonas aeruginosa bacteremia
+Inhalation injury (mild)
+
+Clinical Details
+Mr. Daniel Carter, a 42-year-old male
+K/C
+No significant comorbidities
+
+Sustained second-degree burns over 15% total body surface area (arms and chest) in a household fire on 10/12/2025. Developed fever (38.5°C), foul-smelling exudate from burn sites on hospital day 4.
+
+DH
+Analgesics (IV morphine PRN)
+No known drug allergies
+
+Parameters
+BP: 110/68; HR: 105; Temperature: 38.7°C; SPO2: 95% on 3L nasal O?
+Weight: 80.0kg
+
+O/E
+
+Burn sites: Necrotic patches, greenish discharge, dressing soiled
+CVS: Tachycardic, normal S1/S2
+Lungs: Mild wheezing, no obvious consolidation
+Investigations
+
+CBC: WCC 16 x 10^9/L
+CRP: 200 mg/L
+Burn wound swab: Heavy growth of Pseudomonas aeruginosa (13/12/2025)
+Blood cultures (13/12/2025): Grew Pseudomonas aeruginosa on 14/12/2025, sensitive to Piperacillin-Tazobactam, resistant to Ciprofloxacin
+CXR: No acute consolidation but mild haziness possibly from inhalation injury
+Management
+
+Surgical debridement of necrotic tissue on 14/12/2025
+IV Piperacillin-Tazobactam 4.5g TDS initiated on 14/12/2025
+Burns unit care with specialized dressings and negative pressure wound therapy if indicated
+Inhalation team review for respiratory support
+Plan
+
+Continue IV antibiotics for at least 2 weeks, reassessing based on repeat cultures and wound healing
+Potential skin grafting once infection is controlled",Yes,Pseudomonas aeruginosa,13/12/2025
+83,"Diagnosis
+Pacemaker pocket infection
+Staphylococcus haemolyticus bacteremia
+
+Clinical Details
+Mr. Timothy Caldwell, a 66-year-old male
+K/C
+Complete heart block with permanent pacemaker inserted in 2023
+Type 2 Diabetes Mellitus (on insulin)
+
+Patient presented on 18/01/2026 with localized redness and swelling over the pacemaker site for 3 days. Over the last 24 hours, he developed fever (38.2°C) and malaise.
+
+DH
+Insulin glargine 20 units nocte
+Metformin 500mg BD
+No known drug allergies
+
+Parameters
+BP: 128/76; HR: 82 (paced rhythm); Temperature: 38.2°C; SPO2: 98% on RA
+Weight: 80.0kg
+
+O/E
+
+Pacemaker pocket: Erythema, mild purulent discharge, tenderness
+CVS: Heart rate pacing at 80, normal S1/S2
+Chest: Clear
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 95 mg/L
+Blood cultures (18/01/2026): Grew Staphylococcus haemolyticus (coagulase-negative staphylococci) on 19/01/2026, sensitive to Vancomycin
+Swab from pacemaker pocket: Same organism, matching susceptibility
+ECG: Paced rhythm, no acute changes
+Management
+
+Admitted under Cardiology and ID
+IV Vancomycin started on 19/01/2026
+Pacemaker extraction or lead revision to be discussed with the cardiothoracic team if infection involves the device hardware
+Targeted therapy for at least 4-6 weeks
+Plan
+
+Repeat blood cultures in 48 hours
+Consider transesophageal echo (TEE) to rule out endocardial involvement",Yes,Staphylococcus haemolyticus,18/01/2026
+84,"Diagnosis
+Community-acquired pneumonia
+Streptococcus pneumoniae bacteremia
+Sepsis
+
+Clinical Details
+Ms. Laura Diaz, a 53-year-old female
+K/C
+Hypertension
+Ex-smoker (10 pack-years, quit 5 years ago)
+
+Patient presented on 02/02/2026 with abrupt onset of fever (39.0°C), productive cough with rusty sputum, and pleuritic chest pain for 2 days. She also noted generalized weakness.
+
+DH
+Amlodipine 5mg daily
+No known drug allergies
+
+Parameters
+BP: 110/68; HR: 118; Temperature: 39.2°C; SPO2: 92% on 2L nasal O?
+Weight: 68.0kg
+
+O/E
+
+Chest: Decreased air entry at left lower zone, coarse crackles, increased vocal resonance
+CVS: Tachycardic but regular, no murmurs
+Abdo: Soft, non-tender
+Investigations
+
+CBC: WCC 16 x 10^9/L
+CRP: 150 mg/L
+Blood cultures (02/02/2026): Grew Streptococcus pneumoniae on 03/02/2026
+Chest X-ray: Left lower lobe consolidation
+Renal function: Normal
+Management
+
+IV Benzylpenicillin 1.2g Q4H started on 03/02/2026 (organism penicillin-sensitive)
+IV fluids for sepsis management, monitor vitals closely
+Oxygen therapy to maintain SpO? > 94%
+Plan
+
+Minimum 7-10 days of antibiotic therapy, with possible switch to oral amoxicillin if clinically improved
+Repeat cultures not routinely required unless no clinical response",Yes,Streptococcus pneumoniae,02/02/2026
+85,"Diagnosis
+Complicated urinary tract infection
+Enterobacter cloacae bacteremia
+Right-sided pyelonephritis
+
+Clinical Details
+Mr. Patrick Jennings, a 60-year-old male
+K/C
+Benign prostatic hyperplasia (BPH)
+Intermittent self-catheterization
+
+Presented on 10/04/2026 with high fever (38.8°C), right flank pain, and dysuria for 3 days. Denies nausea or vomiting.
+
+DH
+Tamsulosin 400mcg Daily
+No known drug allergies
+
+Parameters
+BP: 116/72; HR: 102; Temperature: 38.9°C; SPO2: 98% on RA
+Weight: 82.0kg
+
+O/E
+
+Right CVA tenderness, mild suprapubic discomfort
+CVS: Mild tachycardia, S1/S2 normal
+Chest: Clear
+Investigations
+
+CBC: WCC 14 x 10^9/L
+CRP: 130 mg/L
+Blood cultures (10/04/2026): Grew Enterobacter cloacae on 11/04/2026, resistant to cefuroxime, sensitive to Piperacillin-Tazobactam
+Urine culture: Same organism with matching resistance profile
+Renal ultrasound: Mild hydronephrosis on the right, likely related to BPH
+Management
+
+IV Piperacillin-Tazobactam 4.5g TDS started on 11/04/2026
+Urology consult for possible catheter replacement or stent if obstruction worsens
+Strict fluid intake-output monitoring
+Plan
+
+Continue IV antibiotics 10-14 days, depending on clinical response
+Check repeat cultures in 48-72 hours to confirm clearance of bacteremia",Yes,Enterobacter cloacae,10/04/2026
+86,"Diagnosis
+COPD exacerbation
+Haemophilus influenzae (non-type b) bacteremia
+
+Clinical Details
+Ms. Eileen Parsons, a 72-year-old female
+K/C
+Severe COPD on home oxygen
+Osteoporosis
+
+Presented on 18/06/2026 with increased sputum production, dyspnea, and low-grade fever for 4 days. She also noted a change in sputum color to greenish-yellow.
+
+DH
+Tiotropium inhaler OD
+Salbutamol inhaler PRN
+Alendronate 70mg weekly
+NKDA
+
+Parameters
+BP: 122/70; HR: 94; Temperature: 38.0°C; SPO2: 86% on RA (requiring 3L nasal O?)
+Weight: 62.0kg
+
+O/E
+
+Chest: Bilateral expiratory wheeze, decreased air entry, scattered crackles in bases
+CVS: NAD
+Abdo: Soft, non-tender
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 90 mg/L
+Blood cultures (18/06/2026): Grew Haemophilus influenzae (non-type b) on 19/06/2026, sensitive to amoxicillin-clavulanate
+Sputum culture: Same organism with matching sensitivities
+Chest X-ray: Hyperinflated lung fields, possible right basal infiltrate
+Management
+
+IV Amoxicillin-Clavulanate 1.2g TDS initiated on 19/06/2026
+Oxygen therapy to maintain SpO? ? 90%
+Nebulized bronchodilators every 4-6 hours, IV steroids for acute COPD exacerbation
+Plan
+
+Duration of antibiotics at least 7 days; consider switch to oral therapy if improved
+Pulmonary rehab consult post-discharge for COPD optimization",Yes,Haemophilus influenzae,18/06/2026
+87,"Diagnosis
+Subacute endocarditis
+Propionibacterium (Cutibacterium) spp. bacteremia
+Aortic valve involvement
+
+Clinical Details
+Mr. Christopher Nolan, a 55-year-old male
+K/C
+Bicuspid aortic valve (known since adolescence)
+Mild aortic regurgitation
+
+Presented on 22/09/2026 with 3 weeks of low-grade fevers, malaise, and unintentional weight loss. Denied any chest pain or dyspnea but mentioned occasional palpitations.
+
+DH
+No regular medications
+NKDA
+
+Parameters
+BP: 128/75; HR: 90; Temperature: 37.5°C; SPO2: 98% on RA
+Weight: 74.0kg
+
+O/E
+
+Cardiac: Early diastolic murmur at the right sternal edge, consistent with known AR; no new murmurs but a soft systolic murmur is present
+Chest: Clear
+Extremities: Splinter hemorrhages in nail beds, no Janeway lesions or Osler’s nodes
+Investigations
+
+CBC: WCC 9 x 10^9/L
+CRP: 35 mg/L (mildly elevated)
+Blood cultures (22/09/2026): Grew Propionibacterium (Cutibacterium) spp. on 25/09/2026 (multiple sets positive, indicating true bacteremia rather than contaminant)
+TTE (24/09/2026): Vegetation (~4mm) on the aortic valve, mild regurgitation
+ESR: Elevated at 50 mm/hr
+Management
+
+Admitted under Cardiology and ID
+IV Penicillin G 4 million units Q4H initiated on 25/09/2026 after culture results
+Consider transesophageal echo (TOE) to better characterize vegetations
+Monitor valve function and hemodynamics
+Plan
+
+Prolonged IV antibiotic course (?6 weeks) due to endocarditis
+Surgical aortic valve replacement if valvular compromise or large vegetation emerges",Yes,Propionibacterium (Cutibacterium) spp.,22/09/2026
+88,"Diagnosis
+Community-acquired pneumonia
+Streptococcus pneumoniae bacteremia
+Acute respiratory failure (Type 1)
+
+Clinical Details
+Mr. Andrew Clarke, a 54-year-old male
+K/C
+Moderate asthma on inhaled steroids
+Hyperlipidemia
+
+Presented on 03/02/2026 with shortness of breath, productive cough (rust-colored sputum), and high fever (39.2°C) for 2 days. Complains of pleuritic chest pain and generalized malaise.
+
+DH
+Inhaled budesonide 400mcg BD
+Simvastatin 20mg nocte
+No known drug allergies
+
+Parameters
+BP: 118/72; HR: 110; Temperature: 39.3°C; SPO2: 90% on RA (improves to 94% on 2L O?)
+Weight: 78.0kg
+
+O/E
+
+Chest: Crepitations at left lower zone, bronchial breathing
+CVS: Tachycardic, no murmur
+Abdo: Soft, non-tender
+Investigations
+
+CBC: WCC 14 x 10^9/L (predominantly neutrophils)
+CRP: 180 mg/L
+Blood cultures on 03/02/2026: Grew Streptococcus pneumoniae on 04/02/2026, sensitive to penicillin
+Sputum culture: Same organism
+CXR: Lobar consolidation in left lower lobe
+Management
+
+IV Benzylpenicillin 1.2g Q6H started on 04/02/2026
+Oxygen therapy to maintain SpO? ? 92%
+Monitor for complications such as parapneumonic effusion
+Plan
+
+Total IV antibiotic course of 7-10 days, switch to oral amoxicillin if clinically stable
+Chest physiotherapy and incentive spirometry to enhance clearance",Yes,Streptococcus pneumoniae,03/02/2026
+89,"Diagnosis
+Line-related bloodstream infection
+Staphylococcus haemolyticus bacteremia
+Complicated by persistent fever
+
+Clinical Details
+Ms. Louise Parker, a 61-year-old female
+K/C
+Stage 3 breast cancer on chemotherapy (central venous catheter in situ)
+Hypertension
+
+Presented on 18/06/2026 with fever (38.5°C), chills, and localized pain at the central line site. Reports feeling generally unwell for the past 24 hours.
+
+DH
+Cyclophosphamide + Doxorubicin (on 4th cycle)
+Amlodipine 5mg daily
+NKDA
+
+Parameters
+BP: 116/70; HR: 100; Temperature: 38.7°C; SPO2: 98% on RA
+Weight: 65.0kg
+
+O/E
+
+CVC site: Mild erythema, tenderness, no obvious purulence
+CVS: Mild tachycardia, normal S1/S2
+Chest: Clear
+Investigations
+
+CBC: WCC 2.5 x 10^9/L (chemotherapy-induced neutropenia)
+CRP: 85 mg/L
+Blood cultures (drawn from line + peripheral) on 18/06/2026: Grew Staphylococcus haemolyticus on 19/06/2026, resistant to penicillin, sensitive to vancomycin
+Line tip culture after removal: Positive for Staphylococcus haemolyticus
+Management
+
+Removal of central line on 19/06/2026
+IV Vancomycin 1g BD started immediately
+Infectious Diseases consulted for potential prolonged therapy given immunocompromised state
+Plan
+
+Repeat blood cultures every 48 hours until sterile
+Consider new line placement only if absolutely necessary and once infection is cleared",Yes,Staphylococcus haemolyticus,18/06/2026
+90,"Diagnosis
+Complicated pyelonephritis
+Enterobacter cloacae bacteremia
+Obstructive uropathy (left ureteric stone)
+
+Clinical Details
+Mr. David Bradley, a 42-year-old male
+K/C
+No significant past medical history
+Presented on 25/04/2026 with severe left flank pain, high fever (39.1°C), and dysuria for 3 days.
+
+DH
+Ibuprofen 400mg TDS PRN (self-medicated)
+NKDA
+
+Parameters
+BP: 112/70; HR: 115; Temperature: 39.2°C; SPO2: 97% on RA
+Weight: 80.0kg
+
+O/E
+
+CVA tenderness on the left side
+CVS: Tachycardic but no murmurs
+Abdo: Mild left-sided tenderness, no guarding
+Investigations
+
+CBC: WCC 18 x 10^9/L
+CRP: 200 mg/L
+Blood cultures (25/04/2026): Grew Enterobacter cloacae on 26/04/2026, resistant to ceftriaxone, sensitive to meropenem
+Urine culture: Same organism
+CT KUB: 6mm left ureteric stone causing hydronephrosis
+Management
+
+IV Meropenem 1g TDS initiated on 26/04/2026
+Urgent urology review for possible stent or lithotripsy
+Aggressive IV fluid hydration
+Plan
+
+Continue IV antibiotic for a minimum of 10-14 days
+Monitor renal function, consider analgesia adjustment
+Repeat blood cultures in 48 hours to confirm clearance",Yes,Enterobacter cloacae,25/04/2026
+91,"Diagnosis
+Prosthetic valve endocarditis
+Enterococcus faecalis bacteremia
+Aortic valve prosthesis (placed 2024)
+
+Clinical Details
+Ms. Gladys Brown, a 70-year-old female
+K/C
+Rheumatic heart disease with aortic valve replacement in 2024
+Chronic kidney disease Stage 3
+
+Presented on 10/01/2026 with low-grade fevers for 2 weeks, fatigue, and unintentional weight loss. Denied any new rashes or painful lesions on extremities.
+
+DH
+Warfarin 4mg daily (target INR 2-3)
+Calcium acetate 667mg TDS
+NKDA
+
+Parameters
+BP: 116/72; HR: 92; Temperature: 37.8°C; SPO2: 97% on RA
+Weight: 60.0kg
+
+O/E
+
+Cardiac exam: Audible prosthetic valve click, faint diastolic murmur
+Chest: Clear
+Skin: No Osler’s nodes or Janeway lesions, normal nails
+Investigations
+
+CBC: WCC 9 x 10^9/L
+CRP: 40 mg/L
+Blood cultures (10/01/2026): Grew Enterococcus faecalis on 11/01/2026, sensitive to ampicillin
+TTE: Vegetation (5mm) on aortic prosthetic valve
+Renal function: Creatinine 1.9 mg/dL (baseline ~1.6 mg/dL)
+Management
+
+IV Ampicillin 2g Q4H plus Gentamicin synergy initiated on 11/01/2026
+Nephrology consult for renal dosing adjustments and to monitor renal function
+Cardiology to evaluate for possible surgical intervention if vegetation enlarges
+Plan
+
+Prolonged IV therapy (?6 weeks) recommended for prosthetic valve endocarditis
+Strict monitoring of serum gentamicin levels",Yes,Enterococcus faecalis,10/01/2026
+92,"Diagnosis
+Complicated urinary tract infection (emphysematous pyelonephritis)
+Morganella spp. bacteremia
+Type 2 Diabetes Mellitus
+
+Clinical Details
+Ms. Marie de la Cruz, a 58-year-old female
+K/C
+Type 2 Diabetes on insulin therapy
+Hypertension
+
+Presented to the ED on 03/05/2026 with high fever (39.3°C), severe left flank pain, nausea, and confusion. She has poorly controlled diabetes (recent HbA1c of 10.2%).
+
+DH
+Insulin glargine 20 units nocte
+Metformin 500mg TDS
+Lisinopril 10mg daily
+No known drug allergies
+
+Parameters
+BP: 100/60; HR: 115; Temperature: 39.4°C; SPO2: 96% on RA
+Weight: 74.0kg
+
+O/E
+
+CVA tenderness on the left side
+CVS: Tachycardic but stable
+Neurological: Mild confusion (GCS 14)
+Investigations
+
+CBC: WCC 20 x 10^9/L
+CRP: 220 mg/L
+Blood cultures (03/05/2026): Grew Morganella spp. on 04/05/2026, sensitive to Piperacillin-Tazobactam, resistant to Ciprofloxacin
+CT Abdomen: Emphysematous pyelonephritis of the left kidney with gas formation
+Renal function: eGFR ~45 ml/min/1.73m²
+Management
+
+IV Piperacillin-Tazobactam 4.5g TDS commenced on 04/05/2026
+Urgent Urology consult for possible drainage or nephrectomy if no improvement
+Strict glycemic control (IV insulin infusion)
+Supportive management (IV fluids, monitoring of vitals, daily labs)
+Plan
+
+Minimum of 2 weeks IV antibiotics, extend if surgical intervention is needed
+Frequent blood glucose checks and insulin adjustments",Yes,Morganella spp.,03/05/2026
+93,"Diagnosis
+Right foot diabetic ulcer
+MRSA (Methicillin-Resistant Staphylococcus aureus) bacteremia
+Peripheral vascular disease
+
+Clinical Details
+Mr. Adam Woods, a 60-year-old male
+K/C
+Type 2 Diabetes Mellitus (HbA1c 9.8%)
+Peripheral vascular disease (PVD)
+Long-standing smoker
+
+Presented to the ED on 15/04/2026 with a non-healing ulcer on his right foot’s plantar surface. Over the past week, the wound became malodorous, and he developed fevers (38.2°C) with chills and increasing pain.
+
+DH
+Insulin as per sliding scale
+Aspirin 75mg Daily
+NKDA
+
+Parameters
+BP: 118/68; HR: 106; Temperature: 38.5°C; SPO2: 97% on RA
+Weight: 92.0kg
+
+O/E
+
+Right foot ulcer: Approximately 3cm diameter, necrotic edges, foul-smelling discharge
+Pedal pulses: Diminished posterior tibial pulse on the right
+Chest: Clear on auscultation
+Investigations
+
+CBC: WCC 14 x 10^9/L
+CRP: 190 mg/L
+Blood cultures (15/04/2026): Grew MRSA on 16/04/2026
+Wound swab: MRSA with identical sensitivity pattern
+Doppler study: Reduced ankle-brachial index (ABI 0.6) on the right
+Management
+
+IV Vancomycin 1g BD started on 16/04/2026 (dose adjusted per trough levels and renal function)
+Surgical debridement planned to remove necrotic tissue
+Optimize diabetic control with insulin infusion if needed
+Vascular surgery consult to evaluate for possible revascularization
+Plan
+
+Continue IV Vancomycin for at least 2 weeks, guided by repeat blood cultures
+Monitor wound healing closely; negative pressure therapy if indicated",Yes,MRSA (Methicillin-Resistant Staphylococcus aureus),15/04/2026
+94,"Diagnosis
+Neisseria meningitidis sepsis
+Meningococcemia
+Petechial rash
+
+Clinical Details
+Ms. Dana Scheller, a 22-year-old university student
+K/C
+Generally healthy, no chronic illnesses
+
+Presented on 10/05/2026 with sudden onset of fever (39.4°C), severe headache, and neck stiffness. Developed a non-blanching petechial rash over her trunk and extremities within 24 hours. Complains of photophobia and joint pains.
+
+DH
+Oral contraceptive pill
+NKDA
+
+Parameters
+BP: 100/58; HR: 118; Temperature: 39.5°C; SPO2: 97% on RA
+Weight: 58.0kg
+
+O/E
+
+Neuro: Marked neck stiffness, positive Kernig’s and Brudzinski’s signs, mild confusion
+Rash: Petechiae and purpura on both legs and trunk
+CVS: Tachycardic, normal S1/S2
+Investigations
+
+CBC: WCC 15 x 10^9/L, platelets 90 x 10^9/L (thrombocytopenia)
+CRP: 200 mg/L
+Blood cultures (10/05/2026): Grew Neisseria meningitidis on 11/05/2026
+Lumbar puncture: CSF with high WBC count (predominantly neutrophils), low glucose, high protein
+Coagulation profile: Mild coagulopathy
+Management
+
+IV Ceftriaxone 2g BD commenced on 11/05/2026
+Droplet precautions in isolation; contact tracing initiated
+IV fluids and supportive care for possible early shock
+Monitor for DIC (disseminated intravascular coagulation)
+Plan
+
+Complete at least 7 days of IV antibiotics
+Public health notification; prophylaxis for close contacts (rifampin)
+Neurological observations every 4 hours",Yes,Neisseria meningitidis,10/05/2026
+95,"Diagnosis
+Complicated cholecystitis
+Klebsiella pneumoniae complex bacteremia
+Choledocholithiasis
+
+Clinical Details
+Mr. Henry Gutierrez, a 64-year-old male
+K/C
+Obesity (BMI 33)
+Hyperlipidemia
+
+Presented on 02/07/2026 with right upper quadrant (RUQ) abdominal pain, fever (38.6°C), and jaundice. Pain radiates to the right shoulder. Reports dark urine and pale stools for 3 days.
+
+DH
+Atorvastatin 20mg nocte
+No known drug allergies
+
+Parameters
+BP: 115/74; HR: 100; Temperature: 38.8°C; SPO2: 98% on RA
+Weight: 94.0kg
+
+O/E
+
+RUQ: Tender, positive Murphy’s sign, mild guarding
+CVS: Mild tachycardia, normal heart sounds
+Skin: Icteric sclera
+Investigations
+
+CBC: WCC 14 x 10^9/L
+CRP: 90 mg/L
+LFTs: Elevated bilirubin (4.0 mg/dL), ALP, and GGT
+Blood cultures (02/07/2026): Grew Klebsiella pneumoniae complex on 03/07/2026, sensitive to ceftriaxone and gentamicin
+Abdominal ultrasound: Thickened gallbladder wall, gallstones in both the gallbladder and common bile duct
+Management
+
+IV Ceftriaxone 2g OD plus IV Gentamicin synergy started on 03/07/2026
+Urgent surgical review for possible ERCP to extract CBD stones, then laparoscopic cholecystectomy
+Analgesia (IV paracetamol and low-dose morphine PRN)
+Plan
+
+Monitor LFT trends, repeat blood cultures in 48 hours
+Evaluate for resolution of obstruction post-ERCP",Yes,Klebsiella pneumoniae complex,02/07/2026
+96,"Diagnosis
+Postoperative wound infection
+Staphylococcus aureus (MSSA) bacteremia
+Status post hysterectomy (Day 10)
+
+Clinical Details
+Ms. Alisha Morgan, a 45-year-old female
+K/C
+Uterine fibroids (hence hysterectomy)
+No other known comorbidities
+
+Presented on 18/09/2026 (POD 10) with fever (38.3°C) and increasing lower abdominal pain. The surgical wound looked erythematous with some purulent discharge.
+
+DH
+Multivitamins
+NKDA
+
+Parameters
+BP: 118/72; HR: 92; Temperature: 38.4°C; SPO2: 98% on RA
+Weight: 70.0kg
+
+O/E
+
+Surgical incision: Erythema around the site, small area of wound dehiscence with purulent material
+Abdo: Mild tenderness near incision, otherwise soft
+CVS: NAD
+Investigations
+
+CBC: WCC 12 x 10^9/L
+CRP: 85 mg/L
+Wound swab: S. aureus (pending full sensitivities)
+Blood cultures (18/09/2026): Grew MSSA on 19/09/2026, sensitive to flucloxacillin
+Ultrasound pelvis: No abscess, normal post-hysterectomy appearance
+Management
+
+Surgical wound exploration and debridement performed on 19/09/2026
+IV Flucloxacillin 2g Q6H initiated
+Wound care with daily dressing changes
+Repeat blood cultures in 48 hours
+Plan
+
+Continue IV antibiotics for 10-14 days or until clinical and microbiological resolution
+Outpatient follow-up with Gynecology post-recovery",Yes,Staphylococcus aureus (MSSA),18/09/2026
+97,"Diagnosis
+Spontaneous bacterial peritonitis (SBP)
+Escherichia coli bacteremia
+End-stage liver disease (cirrhosis)
+
+Clinical Details
+Mr. Tom Brewster, a 58-year-old male
+K/C
+Alcoholic cirrhosis with portal hypertension
+Recurrent ascites requiring paracentesis
+
+Presented on 12/10/2026 with worsening abdominal distension, fever (38.0°C), and general malaise. He reports mild confusion (possible hepatic encephalopathy).
+
+DH
+Spironolactone 100mg daily
+Furosemide 40mg daily
+Lactulose 20ml TDS
+No known drug allergies
+
+Parameters
+BP: 100/60; HR: 100; Temperature: 38.1°C; SPO2: 97% on RA
+Weight: 76.0kg
+
+O/E
+
+Abdomen: Markedly distended with fluid thrill, mild diffuse tenderness
+JVP: Not elevated
+Skin: Jaundiced, multiple spider naevi
+Investigations
+
+Diagnostic paracentesis: Ascitic fluid PMN count > 250 cells/mm³, culture grew E. coli
+Blood cultures (12/10/2026): Grew E. coli on 13/10/2026, sensitive to cefotaxime
+CBC: WCC 10 x 10^9/L
+LFTs: Bilirubin 3.0 mg/dL, elevated INR 1.4
+Management
+
+IV Cefotaxime 2g TDS commenced on 13/10/2026
+IV albumin infusion on Day 1 and Day 3 to reduce renal complications
+Lactulose increased to control encephalopathy
+Daily weights and strict input-output charting
+Plan
+
+Total antibiotic course of 5-7 days, consider secondary prophylaxis with norfloxacin post-discharge
+Monitor for hepatorenal syndrome",Yes,Escherichia coli,12/10/2026

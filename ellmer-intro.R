@@ -17,6 +17,7 @@
 
 ## Load the package
 library(ellmer)
+library(dplyr)
 
 ## Find out which models you've already got downloaded
 models_ollama()
@@ -50,7 +51,7 @@ b<-chat$chat("What's your name?")
 #' cultured were extracted by a human already (to create our evaluation corpus)
 
 ## First, lets load that dataset
-dummy_data <- readxl::read_excel("data/BSI_testing_data.xlsx")
+dummy_data <- read.csv("data/BSI_testing_data.csv")
 
 # Take a look at a note
 cat(dummy_data$patient_note[1])
@@ -71,41 +72,66 @@ prompt_causative <- c("You are a helpful AI assistant that extracts from
 # Then we'll test our prompt with record 1
 
 ## Create the LLM chat object again, this time with our new system prompt
-chat <- chat_ollama(
+base_chat <- chat_ollama(
   model = "qwen3:4b",
-  system_prompt = prompt_causative,
-  echo = "output"
+  system_prompt = prompt_causative
 )
 
 # Test with record 1
-b<-chat$chat(paste0("Please extract the causative specimen cultured in this note:", dummy_data$patient_note[1]))
+b<-base_chat$chat(paste0("Please extract the causative specimen cultured in this note:", dummy_data$patient_note[1]))
 
 # Human vs LLM result
 cat("\n \n","Human label:",dummy_data$causative[1],"\n \n","LLM label:",b)
 
 
 
-# Now we'll programatically loop over all records, ask the LLM to extract
-# causative organism, and then add that back to the dataset for review
+# Now we'll programatically loop over the first 25 records with pathogens, ask 
+# the LLM to extract causative organism, and then add that back 
+# to the dataset for review
+
+
+# Has a causative organism in note
+activity_data <- dummy_data %>%
+  filter(causative!="None")
+
+# First 25 records only
+activity_data <- activity_data[1:25, ]
 
 # Make the result column
-dummy_data$result <- ""
+activity_data$result <- NA_character_
 
 # Loop over every note and run the LLM
-for (n_note in seq_len(nrow(dummy_data))) {
+for (n_note in seq_len(nrow(activity_data))) {
+  
+  # Make a new 'subchat' so that we're not adding too much context
+  chat_i <- base_chat$clone()$set_turns(list())  # wipe history
   
   # For this patient note
-  p_note <- dummy_data$patient_note[n_note]
+  p_note <- activity_data$patient_note[n_note]
+  
+
+  
+  # Supply the request and note itself
+  prompt <- paste0(
+    "Extract the causative specimen cultured. Return ONE organism name only, or NA.\n\n",
+    "NOTE:\n```text\n", p_note, "\n```"
+  )
   
   # Run the LLM and request labelling
-  llm_result <- chat$chat(paste0("Please extract the causative specimen cultured in this note:", p_note))
-  
   # Save the result in the 'result' column
-  dummy_data$result[n_note] <- llm_result
+  activity_data$result[n_note] <- chat_i$chat(prompt)
+  
 }
 
-# Save the dataset with LLM response
-write.csv(dummy_data,"results_llm.csv")
 
+# Save the dataset with LLM response
+write.csv(result_data,"data/results_llm.csv")
+
+
+
+
+#### What do the results show? Does the LLM agree with the human labeller?
+#### How do the outputs differ? There is likely some work required in terms of
+#### making the formats/spellings match to calculate agreement (or fuzzymatch)
 
 
