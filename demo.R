@@ -6,7 +6,8 @@
 
 
 ## Download some starter models (Qwen3-4B, etc)
-
+# Open ollama and in the drop down next to the chat window, select the models and try to
+# 'chat' with them. A download will start.
 
 ## Install the ellmer package
 # install.packages("ellmer") ### Run this line (remove #)
@@ -18,12 +19,12 @@
 library(ellmer)
 
 ## Find out which models you've already got downloaded
-ellmer::models_ollama()
+models_ollama()
 
 ## Create an LLM instance, including a 'system prompt' that describes
 ## an expert SARI case assistant
 chat <- chat_ollama(
-  model = "llama3.2",
+  model = "qwen3:4b",
   system_prompt = "You are a terse and helpful assistant."
 )
 
@@ -69,13 +70,15 @@ prompt_causative <- c("You are a helpful AI assistant that extracts from
 
 # Then we'll test our prompt with record 1
 
-
 ## Create the LLM chat object again, this time with our new system prompt
 chat <- chat_ollama(
-  model = "llama3.2",
-  system_prompt = "You are a terse and helpful assistant."
+  model = "qwen3:4b",
+  system_prompt = prompt_causative,
+  echo = "output"
 )
 
+
+b<-chat$chat(paste0("Please extract the causative specimen cultured in this note:", dummy_data$patient_note[1]))
 
 
 
