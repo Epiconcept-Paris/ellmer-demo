@@ -48,7 +48,7 @@ b<-chat$chat("What's your name?")
 #' For this exercise, we have a dummy dataset containing notes and the results 
 #' of human labelling. Things like specimen collection date, and what was 
 #' cultured were extracted by a human already (to create our evaluation corpus)
- 
+
 ## First, lets load that dataset
 dummy_data <- readxl::read_excel("data/BSI_testing_data.xlsx")
 
@@ -77,8 +77,35 @@ chat <- chat_ollama(
   echo = "output"
 )
 
-
+# Test with record 1
 b<-chat$chat(paste0("Please extract the causative specimen cultured in this note:", dummy_data$patient_note[1]))
+
+# Human vs LLM result
+cat("\n \n","Human label:",dummy_data$causative[1],"\n \n","LLM label:",b)
+
+
+
+# Now we'll programatically loop over all records, ask the LLM to extract
+# causative organism, and then add that back to the dataset for review
+
+# Make the result column
+dummy_data$result <- ""
+
+# Loop over every note and run the LLM
+for (n_note in seq_len(nrow(dummy_data))) {
+  
+  # For this patient note
+  p_note <- dummy_data$patient_note[n_note]
+  
+  # Run the LLM and request labelling
+  llm_result <- chat$chat(paste0("Please extract the causative specimen cultured in this note:", p_note))
+  
+  # Save the result in the 'result' column
+  dummy_data$result[n_note] <- llm_result
+}
+
+# Save the dataset with LLM response
+write.csv(dummy_data,"results_llm.csv")
 
 
 
