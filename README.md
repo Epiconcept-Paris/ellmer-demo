@@ -7,3 +7,8 @@ A simple demonstration codebase for the 'Practical introduction to open source L
 The 'ellmer-intro' script describes how to download, install and use ollama from within R studio using the 'ellmer' package. 
 
 Included is an NLP activity based on dummy bloodstream infection data. 
+
+First, please download ollama at: https://ollama.com/download
+
+See here for how to select models in ollama:
+![alt text](image.png)
